@@ -1,0 +1,1023 @@
+Age,Gender,City,Position ,Total years of experience,Years of experience in Germany,Seniority level,Your main technology / programming language,Main language at work,Company size,Company type,Totalcomp
+26,Male,Munich,Software Engineer,5,3,Senior,TypeScript,English,51-100,Product,85000
+26,Male,Berlin,Backend Developer,7,4,Senior,Ruby,English,101-1000,Product,80000
+29,Male,Berlin,Software Engineer,12,6,Lead,Javascript / Typescript,English,101-1000,Product,240000
+28,Male,Berlin,Frontend Developer,4,1,Junior,Javascript,English,51-100,Startup,54000
+37,Male,Berlin,Backend Developer,17,6,Senior,C# .NET,English,101-1000,Product,62000
+32,Male,Berlin,DevOps,5,1,Senior,"AWS, GCP, Python,K8s",English,11-50,Startup,81000
+37,Male,Berlin,Frontend Developer,6,0.4,Middle,Javascript,English,11-50,Product,57000
+24,Male,Berlin,Frontend Developer,5,1,Senior,Typescript,English,1000+,Product,65000
+29,Male,Berlin,Backend Developer,8,2,Senior,PHP,English,101-1000,Product,56000
+35,Male,Berlin,Software Engineer,15,3,Lead,Java,English,101-1000,Product,95000
+32,Female,Hamburg,Data Engineer,2,2,Junior,Aws Hadoop Postgre Typescript,German,101-1000,Consulting / Agency,52500
+34,Male,Berlin,Software Engineer,14,5,Senior,Typescript,English,11-50,Startup,70000
+31,Male,Wolfsburg,Backend Developer,5,1,Senior,Kotlin,English,101-1000,Consulting / Agency,77000
+29,Male,Hamburg,Backend Developer,7,3,Middle,Ruby,English,1000+,Product,60350
+27,Male,Berlin,Backend Developer,8,3,Senior,PHP,English,1000+,Product,60000
+34,Male,Berlin,Mobile Developer,11,5,Lead,kotlin,English,101-1000,Product,160000
+34,Male,Berlin,Software Architect,15,9,Lead,NodeJS,English,1000+,Product,100000
+25,Male,Berlin,Software Engineer,5,2,Senior,Javascript,German,1000+,Product,65000
+59,Male,Berlin,Backend Developer,30,30,Senior,Java,German,101-1000,Product,69000
+36,Male,Berlin,Software Engineer,17,2,Lead,PHP,English,101-1000,Product,70000
+38,Male,Berlin,Team Lead,18,4,Lead,iOS,English,101-1000,Product,84000
+24,Male,Berlin,DevOps,6,3,Senior,Kubernetes,English,101-1000,Product,85000
+37,Male,Berlin,Test manager,6,6,Middle,Charles,German,1000+,Media,48400
+40,Male,Berlin,Product Manager,13,1,Senior,SQL,English,101-1000,Product,70000
+29,Male,Berlin,Software Engineer,6,4,Lead,Go,English,101-1000,Product,90000
+31,Male,Berlin,Backend Developer,5,1,Middle,java,English,101-1000,Startup,65000
+39,Male,Berlin,Software Engineer,8,5,Senior,Java,English,51-100,Startup,80000
+27,Male,Berlin,Software Engineer,8,1,Middle,Javascript,English,101-1000,Product,63101
+33,Male,Berlin,Data Scientist,5,4,Lead,Python,English,1000+,Product,230000
+28,Female,Berlin,Designer (UI/UX),7,7,Middle,Figma,German,1000+,Product,45000
+30,Male,Berlin,Software Engineer,8,3,Senior,JavaScript,English,101-1000,Product,80000
+28,Male,Berlin,Backend Developer,5,1,Senior,Kotlin,English,101-1000,Startup,75000
+38,Male,Berlin,DevOps,10,5,Senior,Go/Python,English,51-100,Startup,70000
+29,Male,Berlin,Frontend Developer,7,2,Senior,React,English,1000+,Product,84000
+49,Male,Berlin,Software Engineer,15,15,Senior,Java,German,1000+,Product,68500
+32,Male,Berlin,Frontend Developer,10,5,Senior,TypeScript,English,101-1000,Product,105000
+33,Female,Berlin,Software Engineer,12,5,Senior,С#,English,1000+,Product,123200
+30,Male,Berlin,Software Engineer,6,3,Senior,Java,English,1000+,Product,89000
+48,Male,Berlin,Software Engineer,25,11,Senior,Java,English,101-1000,Product,75000
+32,Male,Berlin,Backend Developer,3,1,Middle,Java,English,101-1000,Product,77000
+31,Male,Berlin,Software Engineer,7,3,Lead,Python,English,101-1000,Startup,86000
+35,Male,Berlin,Backend Developer,10,7,Senior,Ruby,English,101-1000,Product,75000
+28,Female,Berlin,Designer (UI/UX),7,7,Middle,Figma,German,1000+,Product,45000
+32,Male,Berlin,Backend Developer,8,5,Senior,PHP,English,11-50,Product,65000
+44,Male,Berlin,Backend Developer,12,3,Senior,Java,English,11-50,Product,68000
+35,Male,Munich,Software Engineer,11,3,Senior,Php,German,101-1000,Product,70000
+29,Male,Berlin,Software Engineer,5,3,Senior,Go,English,101-1000,Product,75000
+66,Male,Munich,Software Engineer,40,4,Lead,ruby on rails,German,51-100,Product,70000
+39,Female,Berlin,Software Engineer,10,10,Senior,Java,German,101-1000,Consulting / Agency,71500
+28,Male,Munich,Backend Developer,5,4,Senior,Kotlin,English,101-1000,Product,72000
+34,Male,Munich,Frontend Developer,5,5,Senior,JavaScript/ES6,English,11-50,Product,73500
+34,Male,Munich,Software Engineer,13,3,Lead,.NET,English,51-100,Product,144000
+32,Male,Munich,Frontend Developer,7,5,Senior,Javascript,German,101-1000,Consulting / Agency,62000
+38,Male,Stuttgart,Hardware Engineer,15,5,Lead,Hardware,English,1000+,Product,83000
+45,Male,Schleswig-Holstein,Software Engineer,26,18,Senior,C#,German,1000+,Product,103000
+28,Male,Berlin,Software Engineer,3,2,Middle,Js,English,11-50,Startup,55000
+29,Male,Konstanz area,Mobile Developer,6,3,Middle,android,English,11-50,Startup,53000
+36,Male,Munich,Backend Developer,15,3,Senior,java,English,1000+,Product,55000
+39,Male,Berlin,Software Engineer,10,2,Senior,C#,German,1000+,Consulting / Agency,75000
+29,Male,Munich,Software Engineer,7,3,Senior,JavaScript ,English,1000+,Product,85000
+31,Male,Berlin,Engineering Manager,11,6,Lead,Java,English,101-1000,Startup,80000
+30,Male,Berlin,Backend Developer,5,5,Middle,Java,English,1000+,Product,55000
+33,Male,Frankfurt,Software Engineer,4,0,Middle,Java,English,11-50,Consulting / Agency,50000
+27,Male,Berlin,Software Engineer,5,1,Senior,Scala,English,1000+,Startup,78000
+26,Female,Munich,Data Scientist,6,2,Middle,python,English,1000+,Product,70000
+26,Male,Berlin,Software Engineer,8,3,Lead,Go,English,1000+,Product,85000
+31,Female,Berlin,Analytics engineer,6,2,Middle,SQL,English,101-1000,Startup,60000
+30,Male,Berlin,Software Engineer,10,2,Senior,Scala,English,101-1000,Product,72000
+43,Male,Berlin,Mobile Developer,5,3,Senior,Kotlin,English,1000+,Product,72000
+33,Male,Berlin,Software Engineer,5,1,Middle,python,English,101-1000,Product,65000
+24,Male,Berlin,Data Scientist,4,2,Senior,Python,English,101-1000,Startup,146000
+29,Male,Berlin,DevOps,7,1,Lead,Kubernetes,English,101-1000,Product,88000
+29,Male,Berlin,Data Scientist,4,4,Senior,Python,English,101-1000,Product,81000
+30,Male,Munich,Hardware Engineer,5,5,Senior,VHDL,English,101-1000,Product,85000
+35,Female,Berlin,Reporting Engineer,3,2,Middle,Power BI,German,1000+,Product,58000
+33,Male,Munich,QA Engineer,5,1,Senior,Java,English,1000+,Product,60000
+28,Male,Berlin,Software Engineer,8,3,Lead,PHP ,English,101-1000,Product,80000
+31,Female,Munich,agile master ,14,7,Middle,none,German,1000+,Product,80000
+32,Male,Munich,Software Engineer,7,3,Senior,Android,English,51-100,Product,60000
+30,Male,Berlin,Backend Developer,8,2.5,Senior,Scala,English,1000+,Product,80000
+26,Male,Munich,Backend Developer,7,"1,5",Senior,Java,English,101-1000,Product,82000
+31,Male,Munich,Software Engineer,10,2,Senior,Java,English,1000+,Product,68000
+38,Female,Munich,QA Engineer,6,2,Middle,Java,English,1000+,Product,62000
+37,Male,Berlin,Software Engineer,10,3,Senior,PHP,English,11-50,Startup,55000
+25,Male,Munich,Software Engineer,3,1,Middle,Java,English,101-1000,Product,62000
+36,Male,Berlin,Frontend Developer,12,4,Senior,JavaScript,English,up to 10,Startup,72000
+27,Male,Munich,QA Engineer,5,1,Senior,Swift,English,1000+,Product,63800
+35,Male,Frankfurt,ML Engineer,12,10,Senior,ML,English,1000+,Product,150000
+37,Male,Munich,Software Engineer,15,2,Senior,php,German,101-1000,Product,75000
+26,Male,Munich,Data Scientist,3,2,Middle,Python,English,101-1000,Product,72000
+33,Male,Frankfurt,Solution Architect,6,6,Middle,Python,English,1000+,Product,125000
+34,Male,Berlin,Frontend Developer,7,1,Senior,JavaScript,English,up to 10,Startup,65000
+33,Male,Berlin,Backend Developer,12,6,Lead,PHP,English,101-1000,Product,65000
+29,Male,Berlin,Backend Developer,8,0,Senior,Scala,English,101-1000,Startup,72000
+24,Male,Munich,Software Engineer,5,2,Middle,C++,English,1000+,Product,135000
+30,Female,Berlin,Software Engineer,8,2,Senior,"Scala, React.js",English,101-1000,Product,75000
+28,Male,Cologne,BI Consultant,8,1,Senior,SQL,English,up to 10,Consulting / Agency,72000
+31,Male,Munich,Backend Developer,11,1,Senior,PHP,English,1000+,Product,84000
+28,Male,Munich,Mobile Developer,5,3,Senior,iOS,English,1000+,Product,65000
+32,Female,Kempten,Fullstack Developer,10,1,Middle,C#,English and German,51-100,Product,49000
+28,Male,Berlin,Software Engineer,6,2,Senior,Java,English,11-50,Startup,140000
+26,Female,Munich,Data Scientist,3,1,Junior,Ml/Python,English,1000+,Product,82000
+33,Male,Berlin,Mobile Developer,6,4,Middle,Swift,English,101-1000,Product,69300
+31,Male,Berlin,Software Engineer,9,1,Senior,"C#, .net core",English,11-50,Startup,66000
+30,Male,Munich,Frontend Developer,6,1,Senior,Javascript,English,51-100,Product,75101
+31,Male,Berlin,Frontend Developer,8,1,Senior,JavaScript/TypeScript,English,101-1000,Startup,70101
+37,Male,Munich,Backend Developer,12,4,Senior,php,English,101-1000,Product,67000
+25,Male,Munich,Backend Developer,5,0,Senior,Java,English,101-1000,Product,80000
+36,Male,Berlin,Backend Developer,19,5,Senior,PHP,English,101-1000,Product,69000
+40,Male,Berlin,Frontend Developer,7,1,Middle,Javascript,English,11-50,Product,54000
+35,Male,Munich,Software Engineer,13,4,Senior,Java,English,101-1000,Product,81500
+42,Male,Berlin,Software Engineer,20,5,Senior,Ruby on Rails,German,51-100,Product,80000
+34,Male,Berlin,QA Engineer,10,4,Senior,Java,English,101-1000,Startup,78000
+30,Male,Berlin,Backend Developer,6,2,Senior,Ruby,English,101-1000,Product,150000
+35,Male,Berlin,Software Engineer,12,1,Senior,C#,English,1000+,Product,92000
+34,Male,Munich,Cloud Architect,10,4,Senior,"Azure, SAP",English,1000+,Cloud,160000
+26,Male,Münster,Data Scientist,5.5,3,Junior,Python,German,1000+,Product,50000
+35,Male,Berlin,Frontend Developer,4,1,Middle,JavaScript,English,101-1000,Product,55000
+31,Female,Munich,QA Engineer,7,3,Senior,Java,English,1000+,Product,68000
+35,Male,Frankfurt,Software Engineer,12,3,Senior,java,German,51-100,Consulting / Agency,66000
+25,Male,Berlin,Backend Developer,4,1,Middle,Python,English,11-50,Startup,60000
+42,Female,Berlin,QA Engineer,20,1,Middle,python,English,1000+,Product,55000
+40,Female,Munich,Software Engineer,20,7,Middle,Java,German,101-1000,Behörde,54000
+37,Male,Berlin,Software Engineer,8,5,Junior,Java,English,51-100,Product,60000
+33,Male,Munich,Software Engineer,10,3,Senior,Java,English,101-1000,Product,82500
+38,Male,Cologne,Software Engineer,11,5,Senior,PHP,English,101-1000,Product,55000
+27,Male,Munich,Frontend Developer,4,0,Senior,Frontend,English,51-100,Product,60000
+33,Male,Berlin,Software Engineer,7,7,Senior,"Java, JavaScript",English,1000+,Consulting / Agency,129000
+36,Female,Munich,Backend Developer,5,1,Middle,PHP,English,101-1000,Product,65000
+42,Male,Berlin,DevOps,22,4,Lead,yaml,English,1000+,Startup,70000
+32,Male,Frankfurt,Network Engineer ,10,2,Senior,Python ,English,101-1000,Product,74500
+31,Male,Berlin,Frontend Developer,10,1.5,Senior,Javascript,English,51-100,Startup,71161
+33,Female,Berlin,QA Engineer,6,0.5,Middle,Java,English,101-1000,Startup,60000
+40,Male,Berlin,VP Engineering,10,7,VP,JS,English,51-100,Product,100000
+28,Male,Munich,Backend Developer,6,5,Senior,Java,English,101-1000,Consulting / Agency,72000
+31,Male,Berlin,Software Engineer,9,4,Senior,Python,English,1000+,Product,90000
+28,Male,Berlin,Mobile Developer,5,1.5,Lead,Swift,English,11-50,Consulting / Agency,70800
+29,Male,Berlin,Software Engineer,8,3,Middle,PHP,English,11-50,Startup,55000
+40,Male,Munich,Mobile Developer,25,2,Lead,Swift,English,11-50,Product,90000
+46,Male,Munich,QA Engineer,13,13,Senior,Java,German,101-1000,Product,78500
+33,Male,Berlin,Backend Developer,5,2,Middle,Java,English,101-1000,Product,136000
+33,Male,Berlin,ML Engineer,10,5,Middle,Python,English,51-100,Startup,62000
+34,Male,Berlin,Software Engineer,14,4,Lead,Java,English,1000+,Product,100000
+36,Male,Berlin,Backend Developer,18,1,Senior,PHP,English,101-1000,Product,135000
+33,Female,Berlin,QA Engineer,8,1.5,Senior,-,English,11-50,Startup,50000
+32,Male,Berlin,Software Engineer,11,6,Lead,Android,English,101-1000,Product,80000
+46,Male,Berlin,Software Engineer,14,14,Senior,JavaScript,English,51-100,Product,80000
+30,Male,Munich,Mobile Developer,8,1,Senior,Kotlin,English,1000+,Product,66000
+31,Male,Berlin,Data Scientist,10,5,Lead,Python ,English,1000+,Product,185000
+46,Male,Munich,Scrum Master,12,8,Senior,Agile,German,1000+,Product,95000
+26,Male,Berlin,Mobile Developer,6,2,Senior,Kotlin,English,101-1000,Product,70000
+31,Male,Mannheim ,Firmware Engineer,10,3,Senior,C,English,11-50,Product,45000
+31,Male,Munich,Frontend Developer,12,1.5,Lead,"TypeScript, JavaScript",English,11-50,Startup,88000
+30,Female,Berlin,QA Engineer,5,3,Middle,Python ,German,101-1000,Product,54000
+35,Male,Munich,Software Engineer,13,4,Lead,Pegasystems platform ,English,51-100,Consulting / Agency,146000
+33,Male,Berlin,Software Engineer,12,5,Senior,Javascript,English,101-1000,Product,120000
+36,Male,Berlin,Software Engineer,7,5,Middle,"C++, Java, Embedded C",English and German,up to 10,Product,42000
+36,Male,Munich,Solutions Architect,12,5,Lead,Cloud,English,1000+,Product,130000
+38,Male,Frankfurt,Data Center Manager,6,2,Work Center Manager,DC Management,English,1000+,Product,80000
+35,Female,Berlin,Software Engineer,15,6,Senior,C#,German,1000+,Product,76000
+32,Male,Munich,Fullstack Developer,9,2,Senior,Java,English,11-50,Product,74000
+29,Male,Berlin,Software Engineer,8,2,Senior,Go,English,1000+,Product,75000
+30,Male,Rosenheim,Software Engineer,9,5,Middle,Java,German,101-1000,Product,63000
+35,Male,Berlin,ML Engineer,10,2,Lead,Scala,English,11-50,Product,100000
+29,Male,Berlin,Software Engineer,7,5,Senior,Python,English,101-1000,Startup,64000
+30,Female,Munich,Mobile Developer,10,3.5,Senior,Swift,English,1000+,Product,70000
+25,Male,Berlin,Software Engineer,6,1,Middle,Java,English,1000+,Big commercial,87500
+43,Male,Berlin,Software Engineer,20,4,Senior,Python,English,1000+,Product,79000
+38,Male,Berlin,Software Engineer,16,1,Senior,Python,English,1000+,Product,65000
+26,Male,Berlin,Software Engineer,5,2,Middle,Scala,English,101-1000,Product,73300
+25,Female,Munich,Product Manager,3,0.5,Middle,--,English,1000+,Product,62000
+34,Male,Munich,Software Engineer,12,5,Lead,python,English,11-50,Product,95000
+27,Male,Berlin,Backend Developer,5,1,Middle,Java,English,1000+,Product,65000
+30,Male,Berlin,Mobile Developer,3,2,Senior,Swift,English,11-50,Startup,58000
+34,Male,Berlin,Data Scientist,5,5,Middle,Python,English,101-1000,Product,70000
+36,Female,Berlin,QA Engineer,14,7,Lead,Java,English,11-50,Product,75900
+27,Male,Berlin,Backend Developer,5,1,Middle,Java,English,1000+,Product,65000
+45,Male,Berlin,Mobile Developer,10,4,Lead,SWIFT,English,101-1000,Product,79000
+35,Male,Berlin,Backend Developer,6,2,Senior,"Java, angular, Aws",English,51-100,Product,76000
+36,Male,Berlin,Engineering Manager,7,1,Lead,"Swift, objective-c",English,1000+,Product,175000
+32,Male,Stuttgart,QA Engineer,9,9,Senior,Java,German,1000+,Consulting / Agency,64700
+33,Male,Boeblingen,DevOps,14,4,Senior,Golang,English,101-1000,Product,70000
+30,Male,Berlin,Backend Developer,10,2,Middle,PHP,English,1000+,Product,56000
+35,Male,Berlin,Software Engineer,15,4,Senior,go,English,51-100,Startup,70000
+24,Male,Boeblingen,C/C++/Java developer,0.8,0.8,Junior,Java,English,11-50,Product,48101
+25,Male,Stuttgart,Backend Developer,4,2,Middle,Java,German,101-1000,Consulting / Agency,60000
+29,Male,Berlin,Mobile Developer,8,4,Senior,Kotlin,English,101-1000,Product,65000
+32,Male,Berlin,DevOps Manager,10,3,Lead,DevOps,English,1000+,Product,100000
+32,Male,Düsseldorf,Software Engineer,11,7,Senior,.net,English,1000+,Consulting / Agency,122000
+24,Male,Munich,Software Engineer,3,2,Middle,Node.js,English,1000+,Consulting / Agency,76000
+24,Female,Stuttgart,Software Engineer,2,1,Middle,iOS,English,11-50,Consulting / Agency,57200
+56,Male,Ingolstadt,Software Engineer,9,9,Senior,R,German,1000+,Product,75000
+25,Male,Munich,ML Engineer,1,1,Middle,Python,English,1000+,Product,67000
+28,Male,Stuttgart,Software Engineer,8,1,Senior,C++,English,1000+,Outsorce,67200
+30,Male,Munich,Software Engineer,7,5,Senior,C++,English,1000+,Product,175000
+26,Female,Berlin,Software Engineer,6,4,Senior,.NET,English,101-1000,Product,66000
+31,Female,Stuttgart,Data Scientist,4,2,Middle,R,German,1000+,Product,138000
+31,Male,Munich,Software Engineer,9,1,Middle,C++,English,1000+,Product,115000
+29,Female,Stuttgart,QA Engineer,6,2,Middle,JS,English,101-1000,Product,54000
+33,Male,Munich,Backend Developer,15,3,Lead,Scala,English,11-50,Startup,110000
+26,Male,Munich,ML Engineer,1.5,1.5,Junior,Python,German,101-1000,Consulting / Agency,58000
+30,Female,Frankfurt,QA Engineer,6,4,Senior,Bash,German,1000+,Bank ,72000
+34,Male,Berlin,Software Engineer,14,5,Senior,C#,English,101-1000,Product,72000
+37,Male,Berlin,Team Lead,12,10,Head,Python,English,11-50,Consulting / Agency,90000
+38,Male,Frankfurt,Tech Lead,16,1,Lead,.Net,English,101-1000,Fintech,211000
+28,Male,Munich,Network Administrator,9,3,Senior,Network,English,1000+,Automotive,68500
+31,Male,Berlin,QA Engineer,10,5,Senior,nothing,English,1000+,Product,137000
+29,Male,Düsseldorf,Consultant Data Analytics,1,1,Junior,Python,German,1000+,Consulting / Agency,47000
+39,Male,Munich,BI IT Consultant,5,5,Middle,"Qlik BI Tool, SQL",German,1000+,Product,73000
+29,Male,Munich,Backend Developer,8,4,Senior,Java,English,1000+,Product,102000
+36,Male,Nürnberg,Frontend Developer,1,0.5,Junior,Javascript,German,up to 10,Startup,37500
+33,Male,Berlin,iOS Developer,10,2,Middle,Swift,English,1000+,Product,67000
+37,Male,Berlin,Cloud Engineer,15,3,Senior,Cloud,English,1000+,Product,82000
+30,Male,Ansbach,Software Engineer,4,3,Junior,PHP,English,101-1000,Product,42000
+34,Male,Munich,Solutions architect,14,6,Head,Blockchain,English,101-1000,Startup,105000
+43,Male,Berlin,Backend Developer,5,1.5,Middle,Java,English,101-1000,Product,70000
+32,Female,Stuttgart,Stuttgart,2,2,Junior,Java,English,1000+,Product,56000
+34,Male,Leipzig,Mobile Developer,14,2,Senior,Android,English,101-1000,Consulting / Agency,120000
+29,Male,Berlin,Backend Developer,9,5,Senior,Java,English,1000+,Product,85000
+37,Male,Berlin,Frontend Developer,14,5,Senior,Angular,English,1000+,IT Department of established business,84000
+41,Male,Munich,Senior Program Manager,19,5,Senior,Autonomous Driving,English,101-1000,Product,123600
+33,Male,Mannheim,Software Engineer,6,2,Middle,c#,English,51-100,Startup,49000
+33,Female,Berlin,QA Engineer,9,2,Middle,Java,English,101-1000,Startup,57000
+40,Male,Munich,QA Engineer,18,14,Lead,Java,German,1000+,Product,86000
+38,Male,Munich,Backend Developer,12,12,Senior,Java,German,101-1000,Telecommunications,71500
+29,Male,Munich,Frontend Developer,5,"3,5",Middle,"Js, TypeScript, Angular",English,101-1000,Product,57000
+27,Male,Berlin,Backend Developer,7,0,Senior,go,English,11-50,Product,87000
+38,Male,Munich,ML Engineer,10,3,Lead,Python,English,51-100,Consulting / Agency,92101
+42,Male,Berlin,ML Engineer,20,20,Senior,Python,German,1000+,Product,80000
+45,Female,Frankfurt,DB developer/Data analyst,6,0.9,Senior,T-SQL,English,11-50,Product,55000
+38,Male,Hamburg,Software Engineer,12,6,Senior,Java,English,51-100,Product,80000
+30,Male,Berlin,Software Engineer,11,2,Senior,Kotlin,English,11-50,Startup,55000
+32,Male,Berlin,Software Engineer,9,5,Lead,JavaScript,English,101-1000,Product,90000
+41,Male,Munich,Backend Developer,21,3,Senior,Java,English,101-1000,Product,80000
+34,Male,Berlin,Security Engineer,10,4,Senior,python,English,1000+,Product,110000
+45,Male,Berlin,Software Engineer,25,20,Lead,c++,German,1000+,Product,95000
+34,Male,Berlin,DevOps,6,6,Middle,"Java, terraform",German,1000+,Media,132000
+25,Male,Stuttgart,Backend Developer,7,1,Senior,PHP,English,11-50,Startup,60000
+32,Male,Berlin,Software Engineer,12,1.5,Senior,iOS,English,51-100,Product,66800
+65,Male,Berlin,Software Engineer,25,25,Senior,"Pascal, VB.NET, C#",German,51-100,Product,55000
+33,Male,Munich,Business Analyst,10,4,Senior,Java,English,101-1000,Product,70000
+34,Male,Berlin,ML Engineer,12,3,Senior,Python,English,1000+,Product,90000
+28,Male,Berlin,Backend Developer,7,1,Senior,PHP,English,101-1000,Product,70000
+39,Male,Munich,DBA,17,5,Senior,Oracle,English,101-1000,Product,134000
+30,Male,Berlin,Backend Developer,7,2,Senior,Ruby,English,11-50,Product,72000
+34,Male,Berlin,DevOps,12,2,Senior,Java,English,101-1000,Product,70000
+35,Male,Berlin,Support Engineer,10,4,Senior,PHP,English,101-1000,Product,127000
+35,Female,Berlin,Frontend Developer,12,5,Middle,Javascript ,English,101-1000,E-commerce,70000
+34,Male,Berlin,Frontend Developer,10,3,Senior,"Angular, React",English,11-50,Startup,68000
+34,Male,Berlin,Software Engineer,12,2,Lead,.net,German,1000+,Product,86000
+35,Male,Berlin,Software Engineer,8,1,Senior,Elixir,English,101-1000,Startup,75000
+38,Male,Berlin,Software Engineer,13,6,Lead,Java,English,1000+,Product,109810
+34,Female,Berlin,Software Engineer,9,3,Senior,Kotlin,English,101-1000,Product,81000
+31,Male,Berlin,Mobile Developer,7,"3,5",Senior,iOS,English,1000+,Product,80000
+34,Male,Berlin,Backend Developer,15,5,Senior,Elixir,English,51-100,Product,140000
+29,Female,Munich,Software Engineer,5,4,Middle,"NodeJS, Typescript, AWS",English,101-1000,Product,72000
+37,Male,Berlin,Software Engineer,15,3,Senior,Scala,English,1000+,Product,90000
+44,Male,Stuttgart,Software Engineer,22,3,Senior,Erlang,English,51-100,Startup,76000
+30,Male,Munich,Frontend Developer,9,3,Middle,TypeScript,English,101-1000,Product,66000
+26,Male,Frankfurt,Consultant,4,4,Middle,JavaScript,German,101-1000,Consulting / Agency,135000
+46,Male,Berlin,Software Engineer,14,14,Senior,JavaScript,English,51-100,Product,80000
+27,Male,Tuttlingen,Software Engineer,4,4,Junior,C#,German,up to 10,Product,48000
+38,Male,Stuttgart,Software Engineer,15,8,Senior,C#,English,11-50,Product,56400
+32,Male,Munich,Backend Developer,11,3.5,Senior,PHP,English,1000+,Product,162400
+26,Male,Frankfurt,Backend Developer,7,1.5,Senior,Java,English,101-1000,Product,65000
+29,Male,Berlin,Software Engineer,12,3,Senior,Go,English,101-1000,Product,150000
+32,Male,Nürnberg,Testautomation,8,2,Senior,"Java, JS",German,101-1000,Consulting / Agency,60000
+29,Male,Bonn,Mobile Developer,5,2,Middle,Objective-C,English,11-50,Product,59000
+33,Male,Hamburg,Software Engineer,10,3,Senior,Ruby,English,101-1000,Product,75000
+32,Male,Munich,QA Engineer,9,3,Senior,QA,English,101-1000,Product,76000
+34,Male,Berlin,Software Engineer,10,10,Senior,C++,English,101-1000,Product,88000
+31,Male,Moscow,Data Scientist,2.5,0,Lead,Python,Russian,1000+,Bank,26500
+33,Male,Munich,Software Engineer,10,4,Senior,C#,German,51-100,Product,78000
+32,Male,Berlin,Backend Developer,4,1,Senior,Ruby,English,51-100,Product,65000
+47,Male,Hamburg,Software Engineer,22,10,Senior,C++/C#,English,up to 10,Product,92000
+29,Male,Berlin,Backend Developer,8,1.5,Middle,Go,English,101-1000,Product,65000
+28,Male,Munich,Software Engineer,5,6,Senior,C++,English,up to 10,Startup,69000
+25,Male,Hamburg,Data Scientist,2,2,Middle,Python,German,11-50,Product,53000
+32,Male,Munich,SAP Developer,9,1,Senior,ABAP,German,1000+,Consulting / Agency,75800
+45,Male,Munich,Frontend Developer,3,< 1,Senior,Javascript / Typescript,Russian,11-50,Startup,70000
+26,Male,Frankfurt,Software Engineer,3,1,Middle,Python ,English,51-100,Consulting / Agency,48000
+29,Male,Munich,Mobile Developer,8,0.25,Senior,Java/Kotlin,English,11-50,Consulting / Agency,65400
+40,Male,Berlin,Backend Developer,18,2.5,Senior,php,English,1000+,Product,60000
+27,Male,Munich,Software Engineer,5,1,Senior,Typescript / Angular,English,1000+,Product,76000
+27,Male,Munich,Software Engineer,5,1,Senior,Javascript,English,51-100,Product,65000
+22,Male,Warsaw,Backend Developer,3,0,Middle,PHP,Polish,51-100,Consulting / Agency,27000
+30,Male,Berlin,DevOps,9,5,Lead,Kubernetes,English,101-1000,Product,90000
+30,Male,Hamburg,Software Engineer,6,0,Middle,.NET,English,101-1000,Product,66000
+29,Male,Munich,SW Architect,8,3,Senior,C++,English,1000+,Product,73400
+37,Male,Heidelberg,Software Engineer,15,7,Senior,ABAP,English,1000+,Product,75000
+28,Male,Berlin,SRE,6,1.5,Middle,Kubernetes,English,1000+,Product,66122.13
+28,Female,Berlin,Software Engineer,8,0,Lead,Javascript,English,101-1000,Product,80000
+28,Male,Stuttgart,Backend Developer,5,1.5,Middle,Java,German,101-1000,Product,60000
+33,Male,Berlin,Software Engineer,13,3,Senior,Ruby,English,1000+,Product,95000
+40,Male,Frankfurt,Software Engineer,22,3,Senior,Java,German,1000+,Product,77000
+28,Male,Munich,"Fullstack engineer, ну или Software engineer",9,1,Senior,React/Typescript,English,up to 10,Startup,60000
+29,Male,Berlin,Backend Developer,11,2,Senior,Python,English,51-100,Product,89000
+24,Male,Aachen,HiWi,3,2,Junior,Python,English,11-50,University,10164
+31,Male,Munich,Software Engineer,11,1,Middle,Python,English,1000+,Product,75000
+44,Male,Munich,Software Engineer,28,6,Senior,C#,English,51-100,Product,78500
+32,Male,Berlin,Software Engineer,12,1,Senior,Java,English,1000+,Product,83500
+33,Male,Berlin,Software Engineer,10,1,Middle,iOS,English,1000+,Product,65000
+46,Male,Munich,Software Engineer,10,2,Senior,Python ,English,51-100,Startup,68500
+27,Male,Berlin,Frontend Developer,8,1,Middle,Angular,English,51-100,Product,45000
+32,Male,Berlin,Backend Developer,5,3,Middle,Ruby,English,11-50,Product,72000
+34,Male,Berlin,Software Engineer,15,2,Lead,Java,English,1000+,Product,92000
+26,Male,"Riga, Latvia",Software Engineer,4,0,Middle,javascript,English,101-1000,Consulting / Agency,24000
+41,Male,Berlin,Software Engineer,19,7,Lead,Python,English,1000+,Product,110000
+35,Male,Cologne,Software Engineer,14,7,Senior,C++,English,101-1000,Product,149000
+26,Male,Hamburg,Software Engineer,7,3.5,Senior,TypeScript,German,101-1000,Consulting / Agency,72000
+24,Male,Munich,Software Engineer,3,2,Middle,Java/C++,English,1000+,Product,121100
+35,Male,Hamburg,Software Engineer,13,3,Lead,Scala / Python,English,51-100,Startup,110000
+31,Male,Dusseldorf,Software Engineer,7,3,Senior,C++,English,1000+,Product,100800
+25,Male,Berlin,Backend Developer,5,0,Middle,Java,English,1000+,Startup,80000
+30,Male,Moscow,Software Engineer,5,0,Middle,C,Russian,101-1000,Product,14712
+35,Male,Berlin,QA Engineer,11,10,Senior,Java,English,101-1000,Product,74400
+37,Male,Hamburg,Software Engineer,15,5,Senior,Java,English,11-50,Startup,70000
+36,Male,Hamburg,Backend Developer,10,5,Senior,Java/Scala,German,51-100,Product,82000
+32,Female,Cologne,Data Scientist,4,4,Senior,Python,English,1000+,consumer goods,173000
+23,Male,Berlin,Software Engineer,4,1,Middle,Javascript,English,1000+,Product,70500
+39,Male,Stuttgart,Software Engineer,11,3,Lead,PHP,English,101-1000,Product,75000
+27,Female,Berlin,Data Scientist,3,3,Middle,Python,English,51-100,Product,59000
+50,Male,Berlin,Software Engineer,29,2,Lead,C++,German,11-50,IT-Outsourcing,57600
+35,Male,Helsinki,Backend Developer,11,2.5,Senior,python,English,101-1000,Product,68000
+29,Male,Berlin,Backend Developer,10,1,Senior,Ruby,English,101-1000,Product,80000
+30,Male,Munich,Mobile Developer,8,2,Lead,Swift,English,11-50,Startup,161000
+24,Male,Frankfurt,Frontend Developer,3,0,Middle,JavaScript,English,51-100,Product,47000
+28,Male,Würzburg,Software Engineer,8,0,Senior,Java,English,101-1000,Product,75000
+28,Male,Berlin,Backend Developer,9,2,Senior,PHP,English,11-50,Product,61000
+37,Male,Berlin,Software Engineer,8,5,Senior,Python ,English,101-1000,Product,154300
+30,Male,Kiev,Backend Developer,8,0,Middle,Web developer,Русский,51-100,Product,27000
+30,Male,Munich,Frontend Developer,4,1,Middle,JavaScript/Typescript,English,1000+,Product,55000
+31,Male,Berlin,Software Engineer,4,2,Lead,Java,English,1000+,Startup,95000
+28,Female,Berlin,Software Engineer,3,3,Middle,Javascript,English,101-1000,Startup,60000
+31,Female,Munich,Software Engineer,2,2,Middle,Java,German,1000+,Product,61000
+34,Male,Berlin,Mobile Developer,9,2,Senior,Android,English,1000+,Product,72012
+24,Male,Berlin,Backend Developer,4,3,Middle,PHP,English,51-100,Startup,46000
+39,Male,Berlin,DevOps,15,3,Senior,Python,English,101-1000,Product,70000
+42,Male,Den Haag,Backend Developer,20,6,Senior,.NET,English,101-1000,Product,75000
+26,Male,London,Frontend Developer,8,0,Senior,"TypeScript, React",English,1000+,Startup,165000
+32,Female,Berlin,Mobile Developer,7,3,Senior,Kotlin,English,1000+,Product,63000
+23,Male,Berlin,Mobile Developer,3,0,Lead,Swift,English,51-100,Startup,130000
+27,Male,Amsterdam,ML Engineer,4,1,Middle,python,English,1000+,Product,124000
+27,Male,Berlin,Tech Lead / Full-Stack,5,3.5,Lead,Python / JavaScript (React),English,11-50,Startup,91000
+29,Male,Berlin,Frontend Developer,8,4,Senior,JavaScript / typescript,English,1000+,Product,143000
+32,Male,Munich,Software Engineer,10,6,Senior,Java,English,1000+,Product,208000
+31,Male,Berlin,DevOps,11,4,Senior,Terraform,English,101-1000,Startup,81000
+26,Male,Berlin,Marketing Analyst,7,2,Middle,SQL,English,101-1000,Startup,65000
+29,Male,Berlin,Software Engineer,5,"1,5",Middle,PHP,English,11-50,Product,56000
+30,Male,Hamburg,Frontend Developer,7,1,Senior,JavaScript,English,101-1000,Product,55000
+38,Male,Berlin,Mobile Developer,10,4,Senior,Swift,English,1000+,Product,70000
+32,Male,Berlin,CTO,10,4,CTO,JAVA,English,101-1000,Product,400000
+25,Male,Berlin,Solutions Architect,6,2,Middle,Apache Spark,English,1000+,Product,120000
+24,Male,Berlin,Backend Developer,3,0,Junior,C#,English,1000+,Game Company,48000
+24,Male,Tallinn,Software Engineer,3,0,Junior,Java,English,11-50,Product,30000
+27,Male,Prague,Software Engineer,3,0,Middle,.NET,Czech,11-50,Product,24640
+34,Female,Berlin,QA Engineer,6,2,Senior,Ruby,English,1000+,Product,67500
+30,Male,Utrecht,Data Scientist,2,0,Middle,python,English,1000+,Product,58000
+27,Female,Munich,Frontend Developer,2,2,Middle,JavaScript,English,101-1000,Startup,64000
+46,Male,Frankfurt,Software Engineer,23,16,Senior,C#,German,1000+,Consulting / Agency,186000
+42,Female,Munich,Software tester ,12,12,No level ,Java,German,51-100,Product,95000
+40,Female,Berlin,Fullstack Developer,8,8,Senior,C#,German,51-100,Product,58500
+23,Male,Stockholm,Frontend Developer,5,1.5,Senior,Javascript,English,up to 10,Consulting / Agency,91200
+30,Male,Moscow,Backend Developer,2,0,Junior,Elixir,English,101-1000,Product,105000
+40,Male,Braunschweig ,SAP BW Senior Consultant ,11,11,Senior,SAP BW / ABAP,German,1000+,Financial ,80000
+38,Male,Dresden,Software Engineer,10,10,Lead,"Go, PHP, SQL",German,51-100,Product,62000
+28,Male,Kyiv,Mobile Developer,5,0,Senior,Swift,English,11-50,Product,45000
+38,Male,Berlin,Software Engineer,16,2,Senior,ABAP,English,1000+,Startup,94000
+32,Male,Hamburg,Software Engineer,12,7,Senior,Java,German,101-1000,Product,67300
+33,Female,Berlin,Software Engineer,6,3,Middle,java,English,1000+,Startup,65000
+34,Male,Berlin,Software Engineer,13,4,Lead,Kotlin ,English,1000+,Product,85000
+35,Female,Stuttgart ,QA Manager ,9,4,Middle,Jira,English,101-1000,Consulting / Agency,60000
+37,Male,Stuttgart ,Software Engineer,9,5,Senior,Qml,English,101-1000,Consulting / Agency,60000
+33,Male,Berlin,Director of Engineering,10,5,Director,PHP,English,1000+,Product,100000
+36,Male,Munich,IT Spezialist,15,6,Senior,AWS,German,1000+,Product,91200
+27,Male,Frankfurt,Software Engineer,5,3,Middle,C#/.NET,English,up to 10,Consulting / Agency,48000
+28,Male,Berlin,Software Engineer,6,2,Middle,PHP,English,101-1000,E-commerce,60000
+23,Male,Warsaw,Software Engineer,4,0,Middle,PHP,English,up to 10,Product,34000
+31,Female,Berlin,QA Engineer,11,1.5,Middle,JS,English,101-1000,Startup,#VALUE!
+34,Male,Tallinn,Software Engineer,12,0,Middle,PHP,English,101-1000,Product,54000
+34,Male,Berlin,Software Engineer,10,2,Senior,.Net,English,11-50,Product,60000
+38,Male,Munich,Software Engineer,15,5,Senior,Javascript,English,51-100,Corporation,86000
+25,Female,Berlin,Frontend Developer,4,1,Middle,Javascript / Typescript,English,11-50,Startup,60000
+23,Male,Berlin,Software Engineer,3,3,Middle,JavaScript,English,1000+,Product,66000
+30,Male,Munich,Software Engineer,10,4,Senior,.NET,English,1000+,Product,80000
+32,Male,Berlin,Engineering Manager,10,5,Middle,JavaScript,English,101-1000,Product,85000
+28,Male,Berlin,Frontend Developer,2,2,Junior,JavaScript,German,1000+,Publishing and Technology,47000
+31,Male,Berlin,ML Engineer,4,4,Junior,python,German,1000+,Product,70000
+40,Female,Berlin,Software Engineer,"1,5","1,5",Junior,JavaScript ,English,51-100,Startup,50000
+42,Male,Berlin,Software Engineer,17,9,Senior,Go,English,101-1000,Startup,83000
+27,Male,Berlin,Software Engineer,6,3,Middle,Java,English,1000+,Product,94000
+29,Male,Munich,Software Engineer,8,6,Middle,PHP,English,1000+,Product,75000
+23,Male,Berlin,Software Engineer,5,0,Middle,Python,English,101-1000,Product,53000
+35,Male,Munich,Backend Developer,14,2.5,Senior,Java,English,101-1000,Startup,77000
+39,Male,Berlin,Manager,11,9,Head,Python ,English,1000+,Product,330000
+33,Male,Lübeck,Software Engineer,10,1,Middle,C#,German,101-1000,Product,55000
+31,Male,Berlin,Software Engineer,10,4,Lead,Python,English,101-1000,Startup,82000
+38,Male,Berlin,Data Scientist,15,2,Head,Python,English,101-1000,Startup,220000
+31,Male,Hamburg,ML Engineer,3,3,Lead,Python ,English,11-50,Startup,70000
+26,Female,Berlin,Data Scientist,2,1,Junior,Python,English,11-50,Consulting / Agency,47000
+30,Male,Berlin,Software Engineer,10,4,Senior,Java,English,11-50,Startup,70000
+33,Male,Munich,Software Engineer,9,9,Lead,Java,German,51-100,Product,100000
+33,Male,Munich,Software Engineer,11,1,Senior,Python,English,51-100,Startup,65000
+31,Male,Berlin,Mobile Developer,10,3,Senior,Swift,English,1000+,Product,93500
+33,Male,Nuremberg ,Data Scientist,2,2,Middle,Python,English,1000+,Market Research ,54000
+43,Male,Munich,Consultant ,21,3,Senior,Java,German,101-1000,Consulting / Agency,72000
+36,Male,Berlin,Frontend Developer,14,5,Senior,Javascript,English,11-50,Startup,78000
+33,Male,Nürnberg,Software Engineer,9,9,Senior,Javascript / Typescript,German,1000+,Consulting / Agency,85000
+36,Female,Berlin,DevOps,1,3,Middle,java,English,51-100,Consulting / Agency,65000
+27,Female,Munich,Mobile Developer,1,1,Junior,"Kotlin, Java",English,11-50,Startup,50000
+33,Male,Berlin,Software Engineer,12,5,Lead,Go,English,101-1000,Product,170000
+33,Male,Berlin,Data Analyst,2,2,Middle,SQL,English,101-1000,Product,62000
+40,Male,Berlin,QA Engineer,11,11,Senior,Python,German,101-1000,Product,61000
+40,Male,Bodensee,Product Manager,17,9,Lead,Linux Kernel,German,11-50,Product,88000
+35,Male,Frankfurt,Frontend Developer,6,0.5,Senior,Javascript,English,11-50,Product,80000
+39,Male,Berlin,Data Scientist,7,4,Senior,several,English,101-1000,Startup,140000
+25,Male,Berlin,Software Engineer,6,2,Middle,Java,English,1000+,e-commerce,65300
+27,Male,Berlin,Software Engineer,4,1,Middle,C#,English,101-1000,Product,65000
+28,Male,Berlin,Data Scientist,4,4,Middle,Python ,English,101-1000,Product,75500
+36,Female,Munich,Frontend Developer,10,3,Middle,javascript,German,101-1000,Product,48000
+29,Female,Berlin,Software Developer in Test,9,4,Lead,Java,English,101-1000,Startup,66000
+34,Male,Berlin,Mobile Developer,10,0.5,Senior,Android/Kotlin,English,51-100,Product,70000
+39,Male,Munich,Software Architect,20,12,Lead,embedded,English,1000+,Product,167000
+32,Male,Berlin,Software Engineer,6,0,Middle,PHP,German,1000+,Product,58000
+37,Male,Berlin,QA Engineer,6,6,Middle,Java/Groovy,English,101-1000,SaaS,69200
+32,Male,Munich,Software Engineer,7,1,Senior,Python ,English,11-50,Startup,72000
+35,Male,Munich,Software Engineer,16,8,Lead,PHP,English,101-1000,Product,84000
+26,Male,Berlin,Data Scientist,5,3,Middle,Python ,English,101-1000,Startup,59000
+32,Male,Berlin,Frontend Developer,7,1,Middle,Typescript,English,101-1000,Startup,68000
+36,Male,Berlin,Software Engineer,10,10,Senior,typescript,German,1000+,Product,88000
+26,Male,Berlin,Software Engineer,5,2,Middle,Swift,English,1000+,Product,71000
+28,Male,Berlin,Data Engineer,5,1,Middle,Scala,English,101-1000,Product,65000
+36,Male,Berlin,Data Scientist,5,5,Middle,python,English,101-1000,Startup,65000
+40,Male,Munich,Software Engineer,18,18,Senior,java,German,up to 10,Consulting / Agency,160000
+29,Male,Milan,Data Scientist,4,0,Middle,Python + SQL,Italian,101-1000,Consulting / Agency,37500
+32,Male,Berlin,Software Engineer,10,5,Middle,javascript,English,51-100,Startup,70000
+28,Male,Munich,Software Engineer,5,4,Middle,Java,English,11-50,Startup,64000
+27,Male,Berlin,DevOps,7,3.5,Senior,Go,English,101-1000,Startup,80000
+33,Male,Berlin,Software Engineer,16,5,Senior,Java,English,1000+,Product,100000
+34,Male,Munich,QA Engineer,5,2,Senior,Java,English,1000+,Product,76500
+31,Male,Berlin,Frontend Developer,8,3.5,Senior,Typescript,English,11-50,Product,60000
+31,Male,Munich,Frontend Developer,8,3,Senior,"Typescript, Web apps",English,1000+,Product,84000
+31,Male,Berlin,Data Scientist,5,3,Middle,Python,English,101-1000,Product,108000
+27,Male,Berlin,ML Engineer,6,1,Middle,Python,English,1000+,Product,120500
+31,Male,Hamburg,Data Scientist,9,9,Middle,Python,German,up to 10,Product,50000
+29,Male,Berlin,Backend Developer,10,5,Senior,Scala,English,11-50,Startup,80000
+39,Male,Berlin,Software Engineer,6,1,Senior,PHP,English,101-1000,Product,60000
+35,Male,Berlin,Frontend Developer,10,3,Senior,JavaScript,English,1000+,Startup,75000
+38,Male,Berlin,Tech Leader,24,1,Head,Java,English,101-1000,Product,130000
+31,Male,Salzburg,Chief Research Officer,10,2,C-level executive manager,Python,English,51-100,Startup,140000
+32,Male,Berlin,QA Engineer,7,3.5,Senior,Swift,English,51-100,Startup,65000
+35,Male,Berlin,SRE,10,3,Senior,Terraform ,English,101-1000,Product,85000
+28,Male,Rome,ML Engineer,2,0,Middle,Java,English,1000+,Product,38400
+30,Female,Berlin,Data Scientist,6,5,Senior,python,English,1000+,Product,86000
+26,Male,Berlin,Data Engineer,2,2,Middle,Python,English,1000+,Product,55000
+25,Male,Berlin,Data Engineer,3,3,Senior,Scala,English,1000+,Product,75000
+27,Male,Berlin,DevOps,4,4,Middle,AWS,English,101-1000,Consulting / Agency,72000
+22,Male,Berlin,Presales Engineer ,4,4,Middle,"Java, .Net",English,101-1000,Startup,63000
+37,Female,Berlin,Data Scientist,2,2,Middle,Python,German,101-1000,Publisher,62000
+25,Male,Berlin,Data Scientist,1,0.5,Junior,"Python, statistics, SQL",English,1000+,Product,61000
+33,Male,Berlin,Backend Developer,11,4,Senior,Scala,German,11-50,Startup,154000
+38,Male,Berlin,Freelance AI lead / advisor,20,7,Head,C,English,up to 10,Consulting / Agency,400000
+25,Male,Berlin,Software Engineer,5,1,Senior,Node.js,English,up to 10,Consulting / Agency,57000
+26,Female,Berlin,Data Scientist,4,1,Middle,"Sql, BQ, tableau, gtm, ga",English,101-1000,Startup,45000
+29,Male,Berlin,Frontend Developer,3,3,Middle,React ,English,51-100,Product,47300
+22,Female,Berlin,Business Development Manager Operations ,4,1,Middle,Business Development Manager Operation ,English,1000+,Startup,39000
+30,Male,Berlin,Frontend Developer,4,2,Senior,TypeScript,English,101-1000,Product,73000
+30,Male,Berlin,Frontend Developer,11,5,Senior,Typescript,English,1000+,Product,85000
+28,Female,Amsterdam,Program Manager,10,3,Senior,Management,English,1000+,Product,116000
+29,Male,Berlin,Frontend Developer,9,1,Senior,Javascript / Typescript,English,1000+,Startup,74000
+32,Male,Cologne,DevOps,10,1,Middle,Bash,English,101-1000,Product,110000
+36,Male,Berlin,Researcher,4,4,Middle,C++,English,up to 10,University,40000
+30,Female,Berlin,Software Engineer,4,4,Middle,Python,English,1000+,Product,56000
+29,Male,Stuttgart ,Software Engineer,7,5,Middle,C++,English,51-100,Product,70000
+32,Female,Berlin,QA Engineer,10,"1,5",Middle,Java,English,1000+,Product,68000
+34,Male,Berlin,QA Engineer,10,3,Senior,JS,English,1000+,Product,70000
+40,Male,Berlin,Engineering manager,15,6,Head,Python,English,1000+,Product,80000
+35,Male,Berlin,Software Engineer,15,4,Principal,C++,English,1000+,Product,97000
+31,Male,Berlin,Software Engineer,8,1,Senior,"Java, Kotlin",English,1000+,Product,77000
+38,Male,Berlin,Data Scientist,15,3,Senior,Python,English,11-50,Product,115000
+39,Male,Hamburg,Data Scientist,10,10,Senior,R,English,1000+,Energy ,80000
+35,Male,Berlin,Backend Developer,13,5,Senior,Nodejs,English,up to 10,Startup,90000
+30,Female,Berlin,QA Engineer,5,2,Middle,TS,English,11-50,Product,54000
+29,Female,Berlin,Data Scientist,0,0,intern,Python,English,1000+,Product,40000
+36,Male,Berlin,Engineering Manager,18,10,Head,C++,English,1000+,Product,123000
+41,Male,Berlin,Backend Developer,20,5,Senior,Python,English,1000+,Product,94000
+41,Male,Berlin,Software Engineer,18,7,Lead,PHP,English,51-100,Product,200000
+28,Female,Berlin,Data Scientist,6,1,Senior,sql,English,1000+,Product,70000
+33,Male,Berlin,Software Engineer,10,3,Lead,javascript,English,101-1000,Startup,75000
+31,Male,Munich,Software Engineer,3,3,Middle,JavaScript ,German,51-100,Product,126909
+29,Male,Berlin,Backend Developer,5,1,Senior,Java,English,1000+,Product,70000
+23,Male,Berlin,Backend Developer,3,1,Middle,Java,English,1000+,Product,180000
+25,Male,Berlin,ML Engineer,4.5,2,Middle,"Spark, Pytorch",English,11-50,Startup,90000
+34,Male,Berlin,QA Engineer,10,5,Lead,Java,English,101-1000,Startup,85000
+45,Male,Berlin,Backend Developer,30,1,Senior,PHP,English,11-50,Startup,55000
+37,Male,Berlin,Embedded Software Engineer,15,1,Senior,C/C++,English,1000+,Product,78000
+31,Male,Berlin,Software Engineer,9,5,Lead,javascript,English,101-1000,Startup,198000
+32,Male,Amsterdam,Backend Developer,15,0,Senior,Golang,English,11-50,Product,90000
+45,Female,Berlin,Product Manager,15,7,Lead,Java,English,11-50,Product,52000
+36,Male,Berlin,Backend Developer,14,12,Middle,JS,English,101-1000,Product,75000
+40,Male,Karlsruhe,Team Manager,20,6,Lead,C#,English,1000+,Enterprise,100000
+28,Male,Berlin,Backend Developer,7,3,Senior,Java,English,101-1000,Product,135000
+35,Male,Frankfurt,Backend Developer,15,15,Senior,C,German,51-100,Product,70000
+37,Male,Berlin,Backend Developer,12,3,Senior,Java,English,101-1000,Startup,102000
+33,Male,Berlin,Software Engineer,10,6,Lead,C/C++,English,1000+,Product,110000
+33,Male,Berlin,Backend Developer,13,5,Senior,Java,English,101-1000,Product,78600
+31,Male,Munich,Software Engineer,10,4,Lead,Java ,English,101-1000,Product,147000
+31,Male,Berlin,Software Engineer,4,2,Middle,Java,English,1000+,Product,137500
+28,Male,Wolfsburg,Software Engineer,3,1,Middle,Java,English,101-1000,Consulting / Agency,42000
+31,Male,Boeblingen,QA Engineer,6,3,Senior,Python,English,1000+,Consulting / Agency,53000
+40,Male,Cupertino,Software Engineer,20,0,Lead,Swift,English,1000+,Product,700000
+25,Female,Frankfurt,Software Engineer,3,2,Middle,Java,German,1000+,Product,58000
+35,Male,Berlin,Data Analyst,9,9,Senior,Python,German,101-1000,Startup,77000
+35,Male,Berlin,Software Engineer,15,10,Senior,.net,English,11-50,Consulting / Agency,160000
+41,Male,Berlin,DevOps,20,14,Senior,"Linux/UNIX, GIT, Virtualisation Platforms, *shell(s) scripts",German,1000+,Bloody enterprise,79500
+33,Male,Berlin,DevOps,8,3,Senior,AWS,English,1000+,service,76000
+33,Male,Berlin,Data Engineer,13,3,Senior,Python,English,101-1000,Startup,90000
+38,Male,Munich,Software Engineer,15,2,Senior,Java,English,11-50,Product,145000
+35,Male,Berlin,Software Engineer,10,6,Senior,php,German,up to 10,Product,156000
+36,Female,Berlin,Data Scientist,5,5,Senior,Python,English,51-100,Startup,75000
+49,Male,Munich,Software Engineer,27,19,Senior,Java,German,101-1000,Consulting / Agency,57000
+32,Male,Berlin,Software Engineer,10,7,Lead,TypeScript,Deuglisch,1000+,Concern,120000
+32,Female,Berlin,Software Engineer,6,4,Lead,Java,English,101-1000,Startup,75000
+27,Female,Berlin,Data Analyst ,1,1,Middle,"Python, SQL",English,1000+,Product,63000
+31,Male,Frankfurt,Data Scientist,6,6,Senior,python,English,51-100,Consulting / Agency,75000
+31,Male,Paris,Mobile Developer,8,0,Senior,Swift,English,101-1000,Product,66000
+28,Male,Cologne,Backend Developer,4,4,Middle,Java,German,101-1000,Product,50000
+28,Female,Berlin,Frontend Developer,3,3,Middle,JavaScript,English,101-1000,Product,54500
+27,Male,Berlin,Software Engineer,2,1,Lead,DWH,English,1000+,Product,97000
+29,Male,Berlin,Frontend Developer,8,5,Head,JavaScript,English,1000+,Product,82500
+32,Female,Munich,Data Engineer,10,2,Middle,Python,English,11-50,Startup,75000
+28,Male,Berlin,QA Engineer,5,1,Middle,QA,English,101-1000,Product,60000
+38,Male,Dublin ,Mobile Developer,16,0,Senior,Swift,English,101-1000,Product,85000
+29,Male,Berlin,Data Engineer,3,3,Middle,Azure,German,1000+,Utilities,60000
+30,Male,Stockholm,Backend Developer,7,2.5,Senior,C++,English,1000+,Product,74000
+33,Female,Berlin,Designer (UI/UX),6,1,Middle,"Sketch, Figma",English,51-100,Product,42000
+30,Male,Paderborn,Data Scientist,6,2,Junior,Python,German,101-1000,Product,55250
+31,Male,Berlin,Product Manager,5,3,Lead,n/a,English,51-100,Startup,96000
+37,Male,Berlin,Mobile Developer,16,2,Senior,iOS,English,101-1000,Product,65000
+30,Male,Berlin,Software Engineer,7,1,Senior,Java,English,1000+,Product,86000
+30,Male,Berlin,Software Engineer,8,2,Senior,JS,English,51-100,Product,60000
+32,Male,Berlin,QA Engineer,10,3,Senior,js,English,1000+,Product,126000
+32,Male,Cologne,DevOps,7,2,Middle,k8s,English,101-1000,Product,60000
+34,Male,Munich,Software Engineer,12,8,Senior,Java,English,101-1000,Product,74000
+43,Male,Cologne,Backend Developer,10,7,Senior,Php,German,101-1000,Product,65600
+33,Male,Munich,Software Engineer,13,4,Senior,Java,English,101-1000,Startup,70000
+28,Female,Munich,QA Engineer,8,4,Senior,Kotlin,English,101-1000,Product,75000
+33,Male,Hamburg,Software Engineer,11,5,Senior,Java,English,11-50,Product,65000
+33,Male,Munich,Software Engineer,11,4,Lead,"Frontend: react, node.js",English,1000+,Product,90000
+51,Male,Berlin,Software Engineer,30,30,Senior,"VB, RPA, Python",German,1000+,Consulting / Agency,65000
+35,Male,Berlin,Software Engineer,8,5,Senior,Go,English,1000+,Product,190000
+35,Male,Berlin,Software Engineer,1,1,Junior,FBD,German,up to 10,Product,30000
+28,Male,Munich,Software Engineer,6,3,Middle,"C, C++",English,101-1000,Product,73000
+25,Male,Berlin,Mobile Developer,2,2,Middle,"Swift, Objective-C, iOS",English,1000+,Product,44000
+25,Female,Hamburg,working student (QA),1,1,Student,Ruby,English,1000+,Product,12000
+32,Male,Berlin,Backend Developer,10,3,Lead,Ruby,English,51-100,Product,80000
+32,Male,Berlin,Software Engineer,9,3,Lead,Embedded,English,101-1000,Product,74000
+26,Male,Berlin,Architect ,9,4,Head,Go,English,1000+,Product,170000
+25,Male,Berlin,Software Engineer,6,3,Senior,JavaScript / TypeScript,English,1000+,Product,77750
+27,Female,Berlin,Backend Developer,5,"2,5",Middle,Kotlin,English,51-100,Product,65000
+28,Male,Frankfurt,Frontend Developer,7,5,Senior,Javascript,English,11-50,Startup,80000
+32,Female,Munich,QA Engineer,8,1,Senior,Java,English,101-1000,Consulting / Agency,130000
+28,Male,Karlsruhe,Backend Developer,7,3,Senior,Java,English,1000+,Product,69000
+34,Male,Berlin,Frontend Developer,13,1,Lead,JavaScript,English,101-1000,Product,85000
+35,Male,Konstanz,Data Scientist,10,10,Middle,python,English,51-100,Product,65000
+38,Male,Berlin,Head of Engineering,20,9,Head,Java,English,1000+,Corporation,150000
+31,Female,Ulm,QA Engineer,8,3,Middle,Java,English,101-1000,Product,45000
+43,Male,Stuttgart,SAP Consultant,20,15,Senior,SAP / ABAP,German,1000+,Product,94000
+38,Male,Berlin,Data Scientist,15,2,Head,Python,English,101-1000,Startup,220000
+35,Male,Munich,DevOps,17,5,Lead,Kubrrnetes,English,1000+,Consulting / Agency,80000
+32,Male,Berlin,DevOps,10,1,Middle,python,English,101-1000,Product,62000
+37,Male,Berlin,Mobile Developer,17,1,Senior,Swift,English,1000+,Product,77500
+29,Male,Berlin,Mobile Developer,5,4,Senior,iOS,English,101-1000,Product,65000
+41,Male,Berlin,Software Engineer,18,3,Senior,JavaScript,English,up to 10,Startup,120000
+38,Male,Stuttgart ,Backend Developer,4,2,Middle,PHP,English,up to 10,Consulting / Agency,43000
+29,Male,Düsseldorf,Frontend Developer,6,6,Middle,TypeScript,German,11-50,Product,55000
+35,Male,Berlin,QA Engineer,12,3,Senior,JS,English,101-1000,Product,63000
+41,Male,Munich,Software Engineer,19,5,Senior,Java,English,101-1000,Product,75000
+29,Male,Barcelona,Data Scientist,0,0,Junior,Python,English,51-100,Product,24000
+26,Female,Dusseldorf,BI Consultant SAP/ Data Engineer,5,5,Middle,ABAP,German,up to 10,Startup,142000
+30,Male,Berlin,Data Engineer,6,1,Middle,Python,English,1000+,Product,66000
+26,Male,London,DevOps,3,0,Middle,"networking, linux, automation, cloud",English,51-100,Product,37000
+35,Female,Munich,Backend Developer,4,4,Middle,PHP,German,101-1000,Insurance,55000
+47,Male,Bölingen,Software Engineer,25,15,"no idea, there are no ranges in the firm ",java,German,11-50,Consulting / Agency,#VALUE!
+44,Male,Kyiv,Business Analyst,15,0,Head,UML,English,101-1000,Consulting / Agency,60000
+32,Male,Berlin,Frontend Developer,13,2,Senior,JavaScript,English,11-50,Product,71000
+33,Male,Dusseldorf,Data Scientist,2,2,Lead,Spark,English,1000+,Product,76000
+32,Male,Munich,Frontend Developer,8,2,Senior,"Js, reactJS ",English,1000+,Product,70000
+26,Male,Berlin,Data Engineer,4,3,Middle,Scala,English,11-50,Consulting / Agency,51000
+22,Diverse,Cologne,QA Engineer,1,1,Head,Cobol,German,1000+,Product,194000
+43,Male,Berlin,Engineering Manager,20,20,Lead,Java,English,1000+,Product,105000
+33,Male,Munich,Software Engineer,11,6,Senior,JavaScript ,English,101-1000,Product,80000
+35,Female,Frankfurt,Software Engineer,1,1,Junior,ABAP,German,51-100,Consulting / Agency,50000
+28,Male,Munich,Frontend Developer,5,5,Middle,JavaScript,German,11-50,Product,72000
+36,Male,Munich,DevOps,16,0,Senior,SRE,English,1000+,Product,255000
+27,Male,Munich,Data Engineer,2,0,Junior,Python ,German,11-50,Consulting / Agency,54000
+36,Male,Berlin,Backend Developer,4,1,Middle,Java,English,101-1000,Product,55000
+38,Male,Berlin,Backend Developer,5,1,Middle,Java,English,101-1000,Product,66000
+28,Male,Berlin,Mobile Developer,6,1,Middle,Android,English,1000+,Product,95000
+25,Male,Berlin,Mobile Developer,8,0,Senior,Clojure,English,51-100,Startup,95000
+30,Male,Berlin,Frontend Developer,6,1,Senior,Javascript,English,1000+,Product,89000
+30,Male,Berlin,Backend Developer,8,2,Middle,Python,English,1000+,Product,85000
+28,Male,Berlin,Backend Developer,8,1,Lead,Ruby,English,51-100,Startup,67000
+32,Female,Berlin,DevOps,9,5,Middle,"Terraform, Kubernetes, AWS, GCP, Ansible, Puppet",English,101-1000,Product,84000
+29,Male,Berlin,Frontend Developer,3,0,Middle,JavaScript ,English,51-100,Consulting / Agency,48000
+35,Male,Berlin,Software Engineer,13,5,Lead,TypeScript,English,101-1000,Startup,303000
+33,Male,Berlin,Frontend Developer,10,4,Senior,JS,English,101-1000,Startup,74000
+34,Male,Berlin,Backend Developer,13,1,Senior,Elixir,English,101-1000,Product,70000
+25,Male,Berlin,Backend Developer,6,2,Senior,Go,English,101-1000,Startup,86000
+42,Female,Berlin,QA Engineer,5,5,Middle,Java,English,51-100,Product,46000
+25,Female,Tampere (Finland),computer vision researcher,3,3 months,Junior,Python,English,51-100,Science Institute ,46000
+40,Male,Berlin,Backend Developer,14,8,Lead,Spring,English,101-1000,Product,135000
+33,Male,Heidelberg,Software Engineer,11,5,Senior,Python,English,101-1000,Research institute,80000
+39,Male,Cologne,Teamlead,12,12,Head,PHP ,German,up to 10,Startup,150000
+24,Male,Berlin,Software Engineer,2,2,Junior,Javascript,German,1000+,Product,50000
+24,Female,Prague,Software Engineer,3,0,Middle,Java,English,11-50,Startup,29000
+39,Male,Berlin,Engineering Manager,15,10,Lead,Java,German,101-1000,Product,90000
+26,Male,Berlin,Backend Developer,2.5,1,Middle,Java,English,101-1000,Product,60000
+29,Male,Berlin,Software Engineer,6,"0,5",Middle,Swift,English,1000+,Product,70000
+29,Female,Berlin,Software Engineer,5,2,Middle,PHP,English,11-50,Startup,55000
+30,Male,Berlin,Backend Developer,9,3,Head,Java,English,51-100,Startup,85000
+31,Male,Berlin,ML Engineer,7,2,Middle,Python,English,1000+,Product,92000
+33,Male,Berlin,Mobile Developer,8,2,Senior,swift,English,1000+,Product,76000
+31,Female,Berlin,Software Engineer,1,1,Junior,React,English,1000+,Retail,58000
+36,Male,Frankfurt,Software Engineer,16,5,Middle,.Net,German,51-100,Consulting / Agency,65000
+30,Male,Berlin,Mobile Developer,8,5,Senior,Swift,English,up to 10,Consulting / Agency,60000
+39,Male,Berlin,Software Engineer,19,7,Senior,Golang,English,11-50,Startup,184000
+32,Male,Berlin,Software Engineer,11,1,Senior,C++,English,1000+,Product,110000
+35,Male,Berlin,Backend Developer,12,3,Senior,php,English,101-1000,Product,54000
+34,Male,Berlin,Data Scientist,6,4.5,Senior,python,English,1000+,Product,90000
+26,Male,Berlin,Data Scientist,4,2,Middle,Python,English,1000+,Ecommerce,66000
+29,Male,Helsinki,Mobile Developer,7,0,Senior,Kotlin,English,51-100,Consulting / Agency,65100
+42,Male,Berlin,Frontend Developer,18,5,Senior,React JS,English,101-1000,Product,945000
+31,Male,Berlin,Software Engineer,12,2,Senior,Java,English,1000+,Product,60000
+33,Male,Berlin,Software Engineer,10,5,Senior,Python,English,1000+,Product,90000
+28,Male,Berlin,Data Engineer,6,1.5,Middle,Python,English,1000+,Product,83000
+35,Male,Düsseldorf,Data Scientist,3,3,Middle,Python,English,51-100,E-Commerce,76000
+35,Male,Berlin,Consultant,16,6,Senior,Python,English,1000+,Product,130000
+31,Male,Berlin,Software Engineer,8,3,Senior,Typescript ,English,1000+,Product,80000
+32,Male,Siegen,Software Engineer,13,1,Junior,C,English,51-100,Product,48000
+38,Male,Berlin,Software Engineer,15,3,Senior,Go,English,101-1000,Product,75000
+29,Male,Berlin,Engineering Manager,9,0.1,Lead,Go,English,101-1000,Product,85000
+33,Male,Berlin,Backend Developer,13,1,Senior,Java,English,101-1000,Product,110000
+28,Male,Berlin,Fullstack Developer,6,6,Senior,JavaScript,English,11-50,Startup,75000
+32,Male,Berlin,Senior Data Engineer,9,4,Senior,Python,English,51-100,Startup,90000
+39,Male,Berlin,Frontend Developer,10,3,Senior,Javascript,English,101-1000,Product,85000
+31,Male,Minsk,Frontend Developer,6,0,Senior,TypeScript/Angular,English,11-50,Product,110000
+33,Male,Berlin,Software Engineer,10,5,Senior,golang,English,101-1000,Product,117000
+30,Male,Berlin,QA Engineer,8,3,Senior,Python,English,51-100,Startup,68000
+30,Female,Düsseldorf ,Analyst,2,2,Junior,R,English,1000+,Product,45000
+37,Male,Munich,Software Engineer,15,6,Senior,C#,German,51-100,Consulting / Agency,80000
+42,Male,Berlin,Software Engineer,20,2,Senior,PHP,English,101-1000,Startup,70000
+31,Male,Nuremberg,QA Engineer,9,5,Middle,Java,English,1000+,Product,125000
+20,Male,Berlin,Mobile Developer,5,2,Lead,C#,English,1000+,Product,#VALUE!
+34,Female,Berlin,QA Engineer,1 (as QA Engineer) / 11 in total,11,Senior,Python,German,1000+,Product,62000
+35,Male,Berlin,Engineering Manager,20,6,Lead,Go,English,11-50,Product,85000
+31,Male,Munich,Software Engineer,14,1.5,Senior,C++,English,101-1000,Consulting / Agency,75000
+37,Male,Berlin,Software Engineer,11,5,Senior,Python,English,101-1000,Product,103000
+37,Male,Berlin,Backend Developer,12,2.6,Lead,Kotlin/PHP,English,11-50,Product,90000
+34,Male,Berlin,Mobile Developer,9,2,Senior,iOS,English,1000+,Product,90000
+42,Male,Friedrichshafen,Software Engineer,20,1,Senior,C++,English,101-1000,Product,70000
+33,Female,Berlin,Data Scientist,8,4,Senior,Python ,English,1000+,Product,77000
+46,Male,Stuttgart,Software Engineer,13,6,Middle,C++,English,1000+,Product,73000
+34,Male,Berlin,Lead Software Developer,13,2,Lead,C#,English,51-100,Product,65000
+35,Male,Berlin,Software Engineer,15,4,Senior,Java,English,11-50,Product,85000
+27,Male,Berlin,Backend Developer,4,4,Senior,Go,English,11-50,Startup,70000
+31,Male,Berlin,Software Engineer,7,5,Lead,python,English,1000+,Product,90000
+24,Male,Berlin,Software Engineer,2,2,Junior,Java,German,up to 10,Consulting / Agency,60000
+28,Male,Berlin,Data Engineer,7,3,Senior,Python,English,101-1000,Startup,90000
+42,Male,Berlin,Backend Developer,18,2,Middle,PHP,English,11-50,Product,53000
+27,Male,Berlin,Data Scientist,5,1,Middle,Python,English,51-100,Product,55000
+30,Male,Hannover,Software Engineer,5,3,Middle,Python,English,up to 10,Startup,45000
+26,Male,Berlin,Software Engineer,2,1.5,Middle,TypeScript,English,1000+,Consulting / Agency,61000
+37,Male,Walldorf,ML Engineer,15,15,Lead,Python,English,1000+,Product,95000
+39,Male,Munich,Software Engineer,8,7,Senior,Python,English,1000+,Product,180000
+26,Female,Berlin,Tech recruiting,"2,5","2,5",Middle,JS,English,101-1000,Product,41000
+30,Male,Hamburg,Data Scientist,5,4,Head,Python,English,11-50,Startup,170000
+44,Male,Frankfurt,Software Engineer,10,10,Senior,SAP ABAP,Russian,101-1000,Product,155000
+26,Male,Munich,ML Engineer,5,4,Senior,Spark,German,up to 10,Consulting / Agency,180000
+30,Male,Munich,Software Engineer,10,6,Senior,Go,English,1000+,Startup,189840
+25,Female,Munich,ML Engineer,1,1,Junior,AI,English,1000+,Product,57000
+34,Male,France,Data Scientist,11,0,Senior,Python,French,1000+,Consulting / Agency,90000
+38,Female,Regensburg,ML Engineer,3,3,Middle,Python,German,1000+,Product,65000
+28,Male,Frankfurt,Mobile Developer,5,1,Senior,Swift,English,11-50,Consulting / Agency,50000
+29,Female,Berlin,Data Scientist,2,2,Junior,R,German,up to 10,Consulting / Agency,52000
+30,Female,Berlin,ML Engineer,5,1.5,Middle,pythin,English,11-50,Startup,51000
+28,Male,"Warsaw, Poland",Software Engineer,6,3 (in Poland),Middle,C#,English,51-100,Consulting / Agency,57200
+42,Male,Berlin,Software Engineer,12,12,Lead,Java,English,101-1000,Product,95000
+29,Male,Munich,Data Scientist,4,4,Middle,Python,English,11-50,Consulting / Agency,128000
+29,Male,Munich,Software Engineer,4,4,Middle,R,English,1000+,Semiconductor,82000
+29,Female,Cologne,ML Engineer,1,1,Middle,julia,English,up to 10,Startup,5500000000
+27,Female,Berlin,Backend Developer,1,1,Junior,Java,German,101-1000,Product,45000
+36,Male,Berlin,CTO,"15, thereof 8 as CTO",13,C-Level,Java & PHP,German,101-1000,Media,200000
+37,Male,Munich,Software Engineer,14,6,Head,Typescript,English,up to 10,Product,168000
+31,Male,Amsterdam,Data Scientist,10,0,Lead,Python,English,11-50,Product,120000
+35,Male,Berlin,Data Analyst,5,5,Middle,R,English,101-1000,Product,49000
+27,Male,Berlin,Data Scientist,4,2,Junior,Python,English,51-100,Consulting / Agency,140000
+29,Male,Munich,Data Analyst ,6,4,Middle,Python,English,101-1000,Product,72500
+36,Male,Berlin,Backend Developer,5,2,Senior,Java,English,101-1000,Startup,70000
+33,Male,Munich,Backend Developer,10,10,Senior,Java,English,11-50,Consulting / Agency,70000
+42,Male,Berlin,Software Engineer,12,12,Lead,Java,English,101-1000,Product,95000
+32,Female,Berlin,BI Analyst ,1,1,Junior,Sql ,English,101-1000,Startup,48000
+30,Male,Berlin,Software Engineer,10,7,Lead,Frontend,English,1000+,Consulting / Agency,132000
+29,Female,Berlin,Software Engineer,4,4,Middle,Java/Kotlin,English,101-1000,Consulting / Agency,75900
+35,Female,Berlin,Frontend Developer,2,2,Junior,React,English,101-1000,Startup,40000
+34,Male,Berlin,BI Developer / Data Engineer,10,5,Senior,SQL,English,101-1000,Product,82500
+34,Male,Berlin,DevOps,12,2,Lead,Kubernetes,English,1000+,Product,94000
+31,Male,Munich,ML Engineer,4,4,Senior,Python,English,1000+,Product,200000
+34,Female,Berlin,QA Engineer,7,0,Senior,Java,English,101-1000,Product,55000
+33,Male,Munich,Frontend Developer,14,8,Senior,"Angular, Typescript",German,11-50,Product,80000
+33,Male,Frankfurt,Software Engineer,8,5,Senior,C#,English,11-50,Product,73000
+33,Male,Munich,Backend Developer,12,0.5,Middle,PHP,English,101-1000,Product,56000
+31,Male,Berlin,Backend Developer,5,2,Senior,Python,English,1000+,Product,77000
+42,Male,Berlin,Software Engineer,12,12,Lead,Java,English,101-1000,Product,95000
+33,Male,Berlin,Product Manager,5,5,Middle,PM tools,English,1000+,Product,70000
+33,Male,Heilbronn,Senior Scrum Master (RTE),7,7,Lead,C++,German,1000+,Product,90000
+31,Male,Berlin,Backend Developer,9,9,Senior,"Grails, Groovy",English,101-1000,Product,67473
+42,Male,Berlin,Software Engineer,12,12,Lead,Java,English,101-1000,Product,95000
+30,Male,Berlin,Head of BI,7,7,Head,Python,English,101-1000,Startup,100000
+32,Female,Berlin,QA Engineer,10,4,Lead,Java,German,1000+,Product,71000
+34,Male,Berlin,Software Engineer,16,5,Lead,Ruby,English,101-1000,Startup,91000
+35,Male,Berlin,Data Scientist,15,10,Middle,C++,English,101-1000,Product,60000
+33,Male,Munich,SRE,10,4,Senior,PHP,English,1000+,Product,79000
+39,Male,Düsseldorf ,Technical project manager,12,4,Senior,PHP,German,1000+,Consulting / Agency,71000
+25,Female,Berlin,support engineer,2,2,Middle,python ,English,1000+,Startup,90000
+34,Male,Munich,Frontend Developer,4,3,Middle,JavaScript,English,101-1000,Product,66000
+28,Male,London,Software Engineer,8,0,Senior,.NET,English,101-1000,Product,81000
+35,Male,Berlin,Frontend Developer,6,1,Middle,React / JavaScript,English,1000+,Product,66500
+38,Male,Berlin,Backend Developer,8,8,Senior,Perl,German,1000+,Product,137000
+34,Male,Munich,Backend Developer,13,2,Lead,Java,English,11-50,Startup,120000
+36,Male,Dortmund,Software Engineer,8,8,Senior,kotlin,English,1000+,Product,83000
+30,Female,Munich,Software Engineer,8,2,Senior,Java,German,1000+,Consulting / Agency,52000
+27,Male,Berlin,Data Engineer,6,3,Middle,Python,English,1000+,Product,95000
+27,Male,Berlin,QA Engineer,5,1.5,Middle,Java,English,101-1000,Product,56700
+33,Male,Berlin,Software Engineer,7,1,Middle,Ruby,English,51-100,Startup,54000
+30,Female,Cologne,Data Scientist,8,7,Senior,"Python, cloud computing ",both,1000+,Utilities,92000
+25,Male,Frankfurt,DevOps,2,2,Junior,Python,English,1000+,Consulting / Agency,65000
+38,Male,Berlin,Software Engineer,12,6,Senior,Java,English,1000+,Product,132000
+34,Male,City in Russia,Software Architect,14,0,Lead,Haskell,English,51-100,Product,100000
+29,Male,Berlin,Frontend Developer,8,7,Senior,JavScript,English,101-1000,Product,164500
+36,Male,Berlin,Software Engineer,5,1,Middle,JavaScript,English,101-1000,Startup,60000
+43,Male,Berlin,Software Engineer,20,3,Middle,Ruby,English,1000+,Product,90000
+32,Male,Munich,Frontend Developer,10,4,Lead,js,English,11-50,Startup,165000
+28,Male,Berlin,ML Engineer,0,1,Junior,python,English,11-50,Startup,48000
+36,Male,Nuremberg,Software Engineer,20,20,Lead,Java,German,1000+,Finance,80000
+26,Male,Berlin,Backend Developer,2,2,Junior,Php,German,11-50,Product,26000
+34,Male,Stuttgart ,Software Engineer,6,6,Head,C++,German,1000+,Product,91000
+25,Male,Stuttgart,Data Scientist,0,0,Junior,Python ,German,1000+,Handel ,58000
+30,Male,Frankfurt,Big Data Engineer,3,3,Middle,Python,English,101-1000,Consulting and Product,68000
+30,Male,Cracow,Business Analyst,7,0,Senior,SQL,English,51-100,Consulting / Agency,138500
+26,Male,Berlin,Software Engineer,5,1,Middle,Python (Django),English,101-1000,Product,71000
+30,Female,Stockholm,QA Engineer,7,1,Senior,Python,English,51-100,Product,48000
+33,Female,Brunswick,Software Engineer,6,4,Middle,C++,German,1000+,Product,64000
+26,Male,Berlin,Backend Developer,6,3,Senior,Go,English,1000+,Product,141000
+29,Male,Berlin,Data Scientist,6,1.5,Middle,Python ,English,up to 10,Startup,57000
+36,Male,Zurich,Data Scientist,5,0.5,Senior,Python,English,11-50,Product,212000
+23,Male,Dublin,Data Analyst,3,0,Senior,Python,English,1000+,Product,51200
+45,Male,Madrid,Data Scientist,2,0,Senior,Python,Spanish,101-1000,Consulting / Agency,42000
+41,Male,Rome,CTO,22,0,Head,Python,Italian,51-100,Product,50000
+28,Male,Berlin,ML Engineer,1,1,Junior,Python,English,up to 10,Startup,86000
+35,Male,Berlin,Data Scientist,12,3.5,Senior,Python,English,1000+,Startup,89000
+37,Female,Berlin,Data Scientist,8,0.5,Middle,Python ,English,1000+,Startup,67000
+26,Male,Lisbon,Software Engineer,4,0,Middle,JavaScript,English,51-100,Product,21000
+30,Male,Barcelona,Data Scientist,5,0,Senior,R,Spanish,1000+,Consulting / Agency,40000
+24,Male,Sofia,ML Engineer,5,0,Senior,Python,English,11-50,Startup,64000
+35,Male,Frankfurt,Manager ,6,5,Head,C,English,1000+,Product,97500
+27,Male,Rome,Data Scientist,2,0,Junior,SQL,Italian,1000+,Consulting / Agency,28300
+31,Male,Munich,Professor,10,2,Lead,Python,German,101-1000,Education,80000
+27,Female,Munich,Backend Developer,6,4,Senior,Java,English,101-1000,Product,95600
+29,Male,Bonn,Data Scientist,2,2,Middle,Python,English,1000+,Product,55200
+29,Male,Berlin,AI Management,6,6,Head,Python,German,1000+,Product,106000
+34,Male,Berlin,Backend Developer,14,6,Lead,Kotlin,English,1000+,Startup,196000
+35,Male,Luttich,Data Scientist,12,0,Lead,Python,English,1000+,Product,180000
+54,Male,Milano,Sales ,31,6,Head,Network Automation,English,11-50,Consulting / Agency,210000
+31,Male,Berlin,Software Engineer,6,4,Senior,Kotlin,English,1000+,Product,189000
+30,Male,Bielefeld,Software Engineer,5,3,Junior,C++,German,11-50,Product,110000
+36,Male,Zurich,Backend Developer,15,2,Senior,C++,English,1000+,Product,272000
+24,Male,Berlin,Backend Developer,1,1,Working Student,Python,German,up to 10,Startup,#VALUE!
+28,Male,Frankfurt,XR Developer,8,1,Lead,C#,English,11-50,Startup,27000
+36,Male,Hamburg,Data Scientist,2,10,Middle,Python,English,11-50,Product,63000
+26,Male,Berlin,DevOps,5,2,Middle,"Kubernetes, Terraform, GCP",English,11-50,Startup,72000
+36,Male,Munich,DevOps,14,6,Middle,PowerShell,German,101-1000,Consulting / Agency,70000
+33,Male,Berlin,Backend Developer,13,1.5,Senior,Python,English,51-100,Startup,83000
+35,Male,Berlin,Data Engineer,6,6,Senior,Java,English,11-50,Startup,400000
+36,Male,Berlin,Frontend Developer,6,4,Middle,JavaScript,English,101-1000,Product,58000
+35,Male,Berlin,Software Engineer,2,2,Middle,"python, scala",English,1000+,Product,50500
+29,Male,Berlin,Backend Developer,9,6,Senior,Java,English,51-100,Startup,75000
+29,Male,Berlin,DevOps,11,7,Lead,TypeScript,English,up to 10,Startup,140000
+32,Male,Hamburg,Backend Developer,14,6,Lead,Java,English,101-1000,Startup,85000
+32,Female,Berlin,Engineering Team Lead,10,6,Lead,QA,English,101-1000,Product,68250
+30,Male,Berlin,Software Engineer,7,1,Senior,python,English,11-50,Startup,49000
+30,Male,Munich,Data Scientist,2,2,Middle,Python,English,11-50,Startup,55000
+30,Male,Berlin,ML Engineer,6,2,Middle,Python,English,51-100,Startup,59000
+30,Male,Frankfurt,Data Scientist,5,4,Middle,Python,English,11-50,Startup,52500
+48,Male,Madrid,DevOps,15,0,Senior,Python,English,up to 10,Startup,30000
+31,Male,Berlin,Data Analyst,7,6,Senior,Sql,English,101-1000,Startup,103000
+38,Male,Cologne,Software Engineer,15,5,Senior,C#,English,up to 10,Product,66000
+22,Male,Istanbul,Backend Developer,3,0,Middle,PHP,English,up to 10,Startup,10001
+28,Male,warsaw,Data Scientist,3,0,Middle,Python,English,101-1000,Product,60000
+29,Male,Berlin,Data Scientist,5,2,Senior,Python,English,11-50,Startup,75000
+34,Male,Munich,Frontend Developer,5,4,Senior,Javascript / Typescript,English,101-1000,Product,108000
+27,Male,Berlin,Frontend Developer,5,1,Middle,"Javascript, Angular",English,101-1000,Startup,116000
+34,Male,Berlin,ML Engineer,3,3,Senior,Python,English,101-1000,Product,70000
+28,Male,Wolfsburg,Software Engineer,2,1,Junior,C,English,101-1000,Product,48000
+40,Male,Mannheim,Software Engineer,9,9,Middle,C,English,1000+,Product,93000
+27,Male,Cologne,Software Engineer,1,1,Junior,C++,German,11-50,Product,90000
+35,Female,Munich,Data Scientist,5,2,Senior,"SAS,SQL,Python",English,1000+,Bank,85000
+29,Male,London,Software Engineer,9,0,Senior,Typescript,English,1000+,Corporation ,283000
+38,Male,Munich,Product Manager,12,12,Senior,Node,English,1000+,Product,88000
+32,Male,Berlin,Data Engineer,7,5,Senior,Python/SQL,English,101-1000,Product,164000
+37,Male,Berlin,Data Scientist,10,10,Senior,Python,English,101-1000,Product,82000
+29,Male,Karlsruhe,DevOps,6,5,Senior,"php, js, python, docker",English,11-50,Startup,74250
+32,Male,Frankfurt,Software Engineer,7,7,Senior,"C, Matlab",German,51-100,Product,74000
+40,Male,Hildesheim,Software Engineer,16,3,Senior,C++,English,1000+,Product,77000
+39,Male,Berlin,Software Engineer,12,6,Lead,Javascript,English,1000+,Product,84000
+32,Male,Vienna,DataOps Team Lead,10,10,Lead,Java,German,1000+,Transport & Logistics,120000
+26,Female,Berlin,Backend Developer,5,0,Middle,Java,English,1000+,Product,140000
+30,Male,Berlin,Software Engineer,9,1,Middle,"TypeScript, Kotlin",English,1000+,Product,77000
+32,Female,Munich,Data Scientist,5,5,Senior,Python ,German,1000+,Product,80000
+32,Male,Munich,Software Engineer,8,1,Senior,C++,English,101-1000,Consulting / Agency,65000
+31,Male,Helsinki,Software Engineer,5,0,Middle,Java,English,51-100,Product,125511
+30,Male,Berlin,Software Engineer,10,6,Senior,Ruby,English,1000+,Product,120000
+30,Male,Munich,Software Sales,12,2,Senior,Cloud,English,1000+,Product,170000
+30,Female,Berlin,QA Engineer,8,6,Senior,Javascript,English,101-1000,Product,70000
+25,Male,Hamburg,Backend Developer,5,1,Middle,Java,English,1000+,Product,107000
+26,Male,Munich,Software Engineer,4,0,Middle,JavaScript / TypeScript,English,101-1000,Startup,157500
+39,Male,Siegen,Software Engineer,16,6,Senior,Embedded,Russian,1000+,Product,67400
+35,Male,Murnau am Staffelsee ,Beikoch,1,1,Middle,Apotheker,German,up to 10,Biergarten ,31000
+38,Male,Munich,Software Engineer,16,5,Senior,.net,English,101-1000,Product,90000
+32,Male,Innsbruck,Data Scientist,3,0,Senior,Python,English,1000+,Product,65000
+30,Female,Munich,Frontend Developer,9,3,Senior,"JavaScript, TypeScript",English,1000+,Product,64000
+34,Male,Berlin,Backend Developer,10,4,Middle,Java,English,101-1000,Product,66400
+36,Male,Stockholm,Mobile Developer,14,7,Senior,Java,English,1000+,Product,80000
+26,Female,Hannover,QA Engineer,2,"0,3",Middle,Tricentis Tosca,German,1000+,Non-tech retail,32000
+28,Female,Berlin,Data Analyst,3,2.5,Middle,SQL,English,101-1000,Product,53000
+25,Male,Berlin,Software Engineer,6,0,Middle,Scala,English,1000+,Product,66000
+28,Male,Berlin,Data Scientist,6,6,Lead,"Python, SQL",English,51-100,Consulting / Agency,78000
+26,Male,Berlin,QA Engineer,4,1,Middle,Swift/Kotlin,English,51-100,Startup,55500
+35,Male,Berlin,Software Engineer,20,5,Senior,JavaScript,English,1000+,Product,100000
+23,Female,Berlin,Data analyst ,1,1,Junior,Sql ,English,1000+,Startup,72000
+28,Male,Munich,Software Engineer,3,3,Junior,.NET,English,1000+,Finance,78000
+36,Male,Berlin,Software Engineer,10,10,Principal,Java & Distributed Systems Stuff,English,1000+,Product,135000
+30,Male,Heidelberg,Software Engineer,9,4,Senior,.NET,English,1000+,Research,62000
+30,Male,Heidelberg,Software Engineer,9,4,Senior,.NET,English,1000+,Research,62000
+28,Male,Zurich,Software Engineer,6,0,Middle,C++,German,11-50,Product,118000
+29,Male,Berlin,Frontend Developer,5,5,Middle,javascript,English,1000+,Product,66000
+26,Female,Prague,Software Engineer,4,1,Middle,C#,"Russian, English",1000+,Product,64000
+26,Male,Berlin,Product Analyst,4,3,Middle,Python,English,1000+,Product,55000
+31,Male,Munich,Software Engineer,5,2,Middle,Java,English,1000+,Product,77000
+34,Female,Hildesheim ,QA Engineer,11,2,Senior,QA,German,1000+,Product,62000
+34,Male,Hamburg,DevOps,8,1,Senior,Embedded,English,101-1000,Product,70300
+36,Male,Munich,Software Engineer,13,5,Head,Java,English,101-1000,Product,95000
+36,Male,Berlin,DevOps,17,4,Head,Python,English,101-1000,Product,231000
+31,Male,Berlin,Software Engineer,7,2,Senior,Java,English,101-1000,Product,87500
+28,Male,Munich,Software Engineer,8,1,Senior,PHP,English,51-100,Product,57000
+28,Male,Munich,Software Engineer,8,1,Senior,PHP,English,51-100,Product,57000
+36,Male,Berlin,Backend Developer,16,8,Lead,Scala,English,101-1000,Startup,240000
+22,Female,Eindhoven,Frontend Developer,2,-,Junior,JS,English,11-50,Product,#VALUE!
+30,Male,Berlin,Backend Developer,4,2,Middle,python,English,101-1000,Product,58000
+35,Male,Berlin,Software Engineer,12,6,Middle,Kotlin,English,1000+,Product,170000
+30,Male,Berlin,Software Engineer,10,2,Middle,iOS,English,101-1000,Product,71000
+36,Male,Bonn,DevOps,15,1,Junior,jenkins bash,English,11-50,Product,52500
+28,Male,Cologne,Software Engineer,5,1,Middle,Java,Russian,101-1000,Product,100000
+42,Male,Berlin,Backend Developer,19,3,Senior,PHP,English,101-1000,Product,70000
+34,Male,Berlin,Backend Developer,14,4,Senior,Kotlin,English,1000+,Product,220000
+27,Male,Hamburg,Backend Developer,0,0,Junior,Python,English,up to 10,Startup,55000
+36,Female,Berlin,Data Scientist,5,5,Senior,Python,English,1000+,Product,102000
+31,Male,Berlin,Software Engineer,4,4,Senior,Python,English,101-1000,Startup,68000
+32,Female,Munich,It Consulting ,2,2,Junior,Test Management ,German,1000+,Consulting / Agency,55500
+32,Male,Berlin,Software Engineer,13,5,Lead,JavaScript,English,1000+,Product,86000
+36,Male,Prefer not to say,ML Engineer,6,6,Senior,Python,English,101-1000,Startup,135000
+26,Male,Munich,Software Engineer,6,2,Senior,TypeScript,English,11-50,Startup,103000
+28,Female,Berlin,Data Scientist,4,2,Middle,Python,English,1000+,Product,154100
+34,Male,Munich,Data Scientist,10,10,Senior,Python,English,101-1000,Consulting / Agency,105000
+38,Male,Berlin,Data Scientist,10,9,Senior,Python,German,101-1000,Product,87550
+37,Male,Berlin,Software Engineer,16,8,Senior,Java,English,101-1000,Product,80000
+31,Male,Berlin,Backend Developer,9,1,Senior,NodeJS/TS,English,51-100,Startup,70000
+38,Male,Berlin,Backend Developer,15,1,Middle,PHP/MySQL,English,11-50,Consulting / Agency,40700
+25,Male,Hamburg,ML Engineer,2,2,Middle,Python,German,11-50,Product,125000
+33,Female,Berlin,Frontend Developer,13,4,Middle,"Angular, TypeScript",English,1000+,Product,51545
+39,Female,Berlin,Data Scientist,2.5,2,Junior,python,English,up to 10,corporate incubator,120000
+25,Male,Hamburg,Software Engineer,1,1,Junior,C#,German,51-100,Startup,43500
+30,Female,Berlin,Software Engineer,7,3,Senior,Java,English,51-100,Product,60000
+35,Male,Munich,Software Engineer,14,1,Senior,C++,English,1000+,Product,126000
+25,Male,Cologne,ML Engineer,2,2,Middle,"NLP, Python",English,up to 10,Startup,54000
+31,Male,Berlin,Software Engineer,4,1,Senior,Java,English,1000+,Product,69000
+25,Female,Amsterdam,Data Scientist,1.5,0,Middle,Python,English,11-50,Startup,50350
+27,Male,Dusseldurf,Backend Developer,2,0,Middle,PHP,English,101-1000,Product,50000
+37,Male,Berlin,Software Engineer,12,6,Middle,php,English,1000+,Product,96500
+32,Male,Hamburg,ML Engineer,4,1.5,Middle,"Python, Whole Apache Data Science Stack, AWS",German,101-1000,Consulting / Agency,37500
+28,Female,Berlin,Backend Developer,3,2,Middle,Python,English,1000+,Product,65000
+35,Male,Fr,Backend Developer,4,2.5,Middle,Java,English,51-100,Consulting / Agency,42000
+36,Male,Berlin,Staff Engineer,15,4,Lead,Go,English,1000+,Product,88000
+32,Male,Berlin,Designer (UI/UX),5,10,Senior,Java,German,up to 10,Startup,75000
+22,Male,Frankfurt,Software Engineer,2,2,Junior,Java,German,1000+,Bank,52000
+33,Male,Berlin,Head of IT,3,3,Head,Python,German,51-100,Product,120000
+35,Male,Berlin,Backend Developer,13,5,Senior,Php,English,1000+,Product,68000
+32,Female,Berlin,Computational linguist,5,5,Middle,Java,English,11-50,Product,50400
+28,Male,Berlin,Product Analyst,4,0,Junior,SQL,English,1000+,Product,55000
+30,Male,Hamburg,Data Scientist,5,5,Middle,Python,English,101-1000,Product,115000
+40,Male,Munich,Data Engineer,15,7,Lead,SQL,English,101-1000,Product,100000
+27,Female,Berlin,Data Scientist,5,2,Senior,Python ,English,101-1000,Product,75000
+32,Male,Berlin,Backend Developer,10,5,Senior,Node.js,English,11-50,Startup,80000
+33,Male,Munich,Software Engineer,5,5,Senior,Embedded C++,English,1000+,Consulting / Agency,124000
+31,Male,Berlin,Data Engineer,4,2,Middle,Python,English,101-1000,Product,50000
+32,Male,Munich,Software Engineer,10,3,Lead,Swift,English,101-1000,Product,80000
+25,Male,Munich,Frontend Developer,7,1,Senior,JS,English,101-1000,Consulting / Agency,76000
+34,Male,Munich,Software Engineer,10,4,Senior,C++,English,1000+,Product,74000
+29,Male,Darmstadt,Data Scientist,5,2,Middle,Python,English,101-1000,Product,65000
+29,Male,Darmstadt,Data Scientist,5,2,Middle,Python,English,101-1000,Product,65000
+24,Male,Munich,DevOps,3,1,Junior,Go,English,1000+,FAANG,97000
+35,Male,Frankfurt,Software Engineer,10,1,Senior,Java,English,101-1000,Consulting / Agency,65000
+31,Male,Munich,DevOps,6,2,Middle,NodsJs,English,51-100,Consulting / Agency,62000
+27,Male,Munich,Software Engineer,2,5,Junior,Java,English,101-1000,Product,70000
+38,Male,Berlin,Full-Stack Developer,1,1,Junior,Javascript/Typescript,English,51-100,Startup,91000
+34,Male,Munich,DevOps,12,2,Middle,Java,English,101-1000,Product,80000
+35,Male,Darmstadt,Data Scientist,4,4,Senior,python,English,51-100,Product,72000
+35,Male,Duesseldorf,DevOps,17,5,Senior,Linux,English,1000+,Consulting / Agency,87000
+36,Male,Berlin,Backend Developer,10,3,Senior,Java,English,101-1000,Product,75000
+29,Male,Berlin,DevOps,7,3,Senior,"Kuberenetes, Openstack",English,101-1000,Consulting / Agency,82000
+35,Male,Berlin,Software Engineer,15,4,Senior,Java,English,101-1000,Product,95000
+25,Female,Cambridge,Frontend Developer,4,0,Middle,JavaScript/Typescript,English,101-1000,Product,90000
+24,Male,Berlin,ML Engineer,0.8,0.2,Junior,Python,English,11-50,Consulting / Agency,11500
+34,Male,Cologne,CTO,14,2,Lead,C#,English,11-50,Product,176000
+42,Male,Hamburg,Data Scientist,2,2,Senior,Python ,German,1000+,Old industry,87000
+37,Female,Hamburg,QA Manager,7,7,Middle,java,German,101-1000,Product,48000
+32,Male,Berlin,Mobile Developer,8,2,Senior,Swift,English,1000+,Product,75000
+26,Female,Berlin,Mobile Developer,8,3,Middle,c++,German,101-1000,Product,42000
+35,Male,Munich,Software Engineer,15,5,Head,SQL,English,11-50,Consulting / Agency,100000
+43,Male,Munich,Product Manager,18,9,Lead,.NET,English,1000+,Product,121000
+41,Male,Munich,Software Engineer,15,15,Senior,Kotlin,German,1000+,Product,100200
+33,Male,Berlin,Backend Developer,8,6,Lead,NodeJS,English,101-1000,Product,110000
+44,Male,Berlin,QA Lead,15,5,Lead,"JS, Java",English,11-50,Product,72000
+28,Male,Berlin,ML Engineer,5,3,Middle,"Python, Pytorch",English,up to 10,Startup,64000
+34,Female,Berlin,Designer (UI/UX),10,6,Senior,"PS, Sketch, React, CSS3",German,up to 10,Product,45000
+28,Male,Brussels,Robotics Engineer,3,0,Middle,C++,English,up to 10,Startup,45000
+26,Male,Stockholm,ML Engineer,2.5,0,Middle,Python/NLP,English,1000+,Product,120000
+39,Male,Berlin,Software Engineer,15,4,Lead,Java,English,51-100,Startup,150000
+32,Male,Copenhagen,Data Scientist,6,6,Senior,Python,English,up to 10,Startup,97000
+27,Female,Lisbon,Backend Developer,3,0,Middle,Java,English,1000+,Consulting / Agency,18750
+32,Female,Berlin,Software Engineer,2,2,Middle,Javascript,English,101-1000,Product,66000
+25,Female,Berlin,Software Engineer,4,1,Middle,"Scala, Apache Spark",English,101-1000,Product,#VALUE!
+37,Female,Berlin,Data Scientist,7,2,Head,Python,English,11-50,Startup,91000
+56,Male,Munich,Software Engineer,30,19,Lead,c++,English,51-100,Product,220000
+30,Male,Berlin,Data Scientist,4.5,2.5,Middle,Python,English,51-100,Startup,70000
+27,Male,Munich,QA Engineer,6,4,Middle,Python,English,1000+,Product,145000
+29,Male,Berlin,Software Engineer,6,1,Senior,Python,English,1000+,Product,80000
+24,Male,Berlin,Mobile Developer,3.5,0.25,Middle,"Swift, Objective-C",English,1000+,Product,70000
+27,Male,Berlin,Data Engineer,0,0,Junior,Python,German,1000+,Consulting / Agency,40000
+28,Male,Berlin,Frontend Developer,7,5,Middle,React.js / TypeScript,English,101-1000,Product,62700
+40,Male,Berlin,Data Engineer,14,0,Middle,"BI, DWH, ETL/ELT",English,101-1000,Product,60000
+32,Male,Berlin,Backend Developer,9,5,Senior,Scala,English,101-1000,Product,90000
+32,Male,Berlin,Software Engineer,11,1,Senior,Scala,English,1000+,Product,82500
+30,Male,Berlin,Backend Developer,9,1,Senior,Scala,English,1000+,Startup,85000
+30,Male,Berlin,Backend Developer,9,5,Senior,Scala,English,1000+,Product,175000
+36,Male,Stuttgart,Mobile Developer,16,4,Lead,Java,English,51-100,Product,62500
+33,Male,Berlin,Software Engineer,7,7,Senior,C++,English,1000+,Product,81800
+33,Male,Berlin,Engineering Manager,15,4,Lead,Java,English,1000+,Product,100000
+32,Male,Munich,Software Engineer,13,7,Middle,Java,English,1000+,Product,130000
+34,Male,Berlin,Backend Developer,12,4,Senior,Kotlin,English,1000+,Product,82500
+54,Male,Munich,Software Engineer,25,15,Middle,Python,English,1000+,Consulting / Agency,80000
+28,Male,Sevilla,DatabEngineer,4,0,Middle,GCP,Spanish,51-100,Consulting / Agency,30000
+28,Female,Berlin,Frontend Developer,5,2,Senior,javascript,English,1000+,Product,66000
+29,Female,Berlin,Project Manager,6,"0,5",Middle,Web,English,101-1000,Startup,51000
+38,Male,Berlin,Data Scientist,6,3,Lead,Python,English,1000+,Product,180000
+33,Male,Berlin,Software Engineer,11,5,Senior,Scala,English,1000+,Product,197000
+36,Male,Berlin,Backend Developer,12,0.5,Senior,Python,English,1000+,Startup,115000
+36,Male,Berlin,Software Engineer,15,6,Senior,PHP,English,101-1000,Product,72000
+37,Male,Aachen,QA Engineer,15,1,Senior,Python,English,101-1000,Product,77000
+36,Male,Munich,Software Engineer,15,1,Senior,PL/SQL,English,1000+,Consulting / Agency,71000
+35,Female,Munich,Application Consultant,"1,5","1,5",Junior,SAP,English,1000+,Consulting / Agency,48000
+33,Male,Munich,Frontend Developer,10,6,Senior,Javascript,English,101-1000,Startup,105000
+33,Male,Stuttgart,Team Lead,12,5,Lead,PHP,German,101-1000,Consulting / Agency,70200
+31,Male,Berlin,Backend Developer,7,2,Senior,Go,English,101-1000,Product,75000
+36,Male,Amsterdam,Mobile Developer,14,8,Senior,Swift,English,11-50,Consulting / Agency,75000
+31,Male,Berlin,Software Engineer,9,5,Senior,scala,English,11-50,Startup,85000
+36,Male,Regensburg,Software Engineer,10,10,Middle,C#,German,51-100,Consulting / Agency,72000
+37,Male,Munich,DevOps,17,1,Senior,AWS,English,1000+,Consulting / Agency,90000
+30,Male,Berlin,Consultant,3,3,Middle,Java,English,101-1000,Startup,58000
+30,Male,Berlin,Software Engineer,11,1,Senior,Java / Scala,English,1000+,Product,180000
+27,Male,Krakow,QA Engineer,5,1,Senior,java,English,101-1000,Product,35000
+33,Female,Munich,Software Engineer,10,3,Senior,Java,English,11-50,Outsourse,47500
+35,Male,Ingolstadt,Backend Developer,10,4,Lead,Magento,English,11-50,Startup,65000
+26,Male,Berlin,Backend Developer,5,4,Middle,Java,English,1000+,Product,72000
+29,Male,Berlin,Software Engineer,9,5,Senior,C++,English,1000+,Product,89000
+31,Male,Berlin,Backend Developer,4,2,Middle,Ruby on Rails,English,11-50,Product,50000
+24,Female,Munich,Software Engineer,less than year,less than year,student,"Python, database technologies",English,11-50,Startup,32640
+36,Male,Berlin,Mobile Developer,10,10,Middle,Android,English,1000+,Product,70000
+29,Male,Munich,Data Scientist,6,5,Middle,SQL,English,1000+,Product,100000
+30,Female,Berlin,Frontend Developer,3,3,Lead,JavaScript ,English,101-1000,Product,57600
+30,Male,Munich,Software Engineer,8,1,Senior,PHP,English,51-100,Product,69500
+29,Male,Berlin,Backend Developer,5,5,Senior,Go,English,101-1000,Product,75000
+34,Male,Berlin,Software Engineer,14,4,Lead,Java,English,1000+,Product,100000
+30,Male,Berlin,Backend Developer,10,4,Lead,Java,English,101-1000,Startup,82000
+34,Male,Prague,Backend Developer,14,0,Lead,C#,English,1000+,Product,130000
+27,Male,Munich,Software Engineer,8,4,Senior,"C++, C#",English,11-50,Product,52000
+26,Male,Munich,Mobile Developer,5,1,Middle,Kotlin,Russian,51-100,Startup,65000
+35,Male,Munich,Software Engineer,12,5,Lead,python,English,51-100,Product,110000
+44,Male,Munich,Software Architekt,20,20,Head,Java Backend,German,101-1000,Product,110000
+34,Male,Ingolstadt ,Software Engineer,3.5,3.5,Junior,C++,German,1000+,Consulting / Agency,110000
+45,Male,Munich,Software Engineer,20,20,Self employed,".net, c++, spss, embeddded",German,up to 10,freelance,215000
+31,Male,Munich,Backend Developer,10,7,Senior,Ruby on Rails,English,101-1000,Startup,170000
+24,Male,Berlin,Frontend Developer,5,2,Senior,TypeScript,English,101-1000,Product,68250
+27,Male,Munich,Software Engineer,7,4,Middle,.NET,English,51-100,Consulting / Agency,63000
+34,Male,Berlin,Frontend Developer,6,2,Middle,Javascript,English,101-1000,Startup,63000
+28,Male,Munich,Software Engineer,7,3,Middle,Java,English,101-1000,Product,67000
+25,Male,Berlin,ML Engineer,5,"0,5",Middle,Scala,English,1000+,Product,67000
+35,Male,Karlsruhe,Software Engineer,12,7,Senior,".Net, Angular",English,1000+,Product,75000
+33,Female,Munich,Testmanager,10,2,Junior,Java,German,1000+,Product,120000
+39,Male,Berlin,QA Engineer,7,5,Senior,Java,English,1000+,Product,79000
+37,Male,Berlin,Mobile Developer,15,5,Senior,Android,English,101-1000,Product,85700
+27,Male,Frankfurt,Software Engineer,3,1,Middle,Qlik,German,11-50,Product,52000
+31,Female,Berlin,Data Scientist,4,3,Middle,spark,English,1000+,Product,50500
+32,Male,Munich,ERP Consultant,10,6,Lead,SAP,English,1000+,Product,130000
+32,Male,Munich,Software Engineer,10,5,Head,Scala,English,11-50,Startup,95000
+28,Male,Berlin,Frontend Developer,5,5,Middle,JavaScript,English,101-1000,Product,55000
+34,Male,Zurich,Software Engineer,7,2,Senior,PHP,English,11-50,Startup,108500
+31,Male,Berlin,Backend Developer,9,5,Senior,Java,English,51-100,Product,142000
+33,Male,Berlin,Researcher/ Consumer Insights Analyst ,10,1.5,Senior,consumer analysis,English,1000+,Product,63000
+39,Male,Munich,IT Operations Manager,15,2,Lead,PHP,English,101-1000,eCommerce,110000
+26,Male,Saarbrücken,Frontend Developer,7,7,Middle,JavaScript,German,101-1000,Product,79300
+26,Male,Berlin,DevOps,2,2,Middle,yaml,English,51-100,Startup,71500
